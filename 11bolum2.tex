@@ -1,0 +1,289 @@
+\section{PROJENÝN TASARIMI VE ÇALIÞMA YAPISI}
+Bu bölümde projenin tasarýmý ve çalý¸sma yapýsýndan bahsedilmektedir
+\subsection{Projenin Tasarýmý}
+Bu projede iki arka tekerleði ve bir önde birer tekerleði olan bir Multiplo robotu kullanacaðýz. Bu robotun montajý hakkýnda daha fazla bilgi için ayri bir doküman hazýrladýk, dokümana görmek için \href{https://drive.google.com/file/d/11VlHap81XU32XOVKXIDdKzzte7GgiFI3/view?usp=sharing}{buraya tiklayýn}
+
+\begin{figure}[h!]
+\centering
+  \includegraphics[scale=0.5]{robot.png}
+  \caption{Projede kullandýðýmýz robot}
+  \label{fig:robot}
+\end{figure}
+
+Giriþte size söylediðimiz gibi, bu proje iki uygulamayý gerçekleþtirmeye çalýþýyor
+\begin{itemize}
+\item Kumanda ile hareket ettirmek
+\item Engel Algýlayan
+\end{itemize}
+
+olup projenin çalýþma yapýsý kýsmýnda bu uygulamalar ile ilgili detaylý bilgiler verilmiþtir.
+
+\subsection{Projenin Çalýþma Yapýsý}
+Bu bölümde projenin çalýþma yapýsýndan bahsedilmektedir.
+\subsubsection{Kumanda ile hareket ettirme}
+Programlama aþamasýna geçmeden önce adýmlarý bir akýþ diyagramý ile açýklamaya çalýþýyoruz.
+\begin{figure}[h!]
+\centering
+  \includegraphics[scale=0.4]{kumanda.png}
+  \caption{Kumanda ile hareket ettirme akýþ diyagramý}
+  \label{fig:kumanda}
+\end{figure}
+
+Akýþ diyagramýmýzý çizdikten sonra programlama aþamasýna geçiyoruz.
+
+Önce miniBloq olan programýmýzý açýyoruz, ardýndan kýrmýzý renk ile çizdiðimiz sembolü seçiyoruz, bu sembol bir deðiþkeni ifade ediyor. Deðiþkenimize isim olarak "speed" atadýk. Þimdi daire içine aldýðýmýz kýsma týklýyoruz, kýrmýzý ile çizdiðimiz deðeri belirten \# sembolünü seçmemizi saðlayan bir pencere açýlýyor. "speed" deðiþkenimize 50 deðeri veriyoruz ve deðer olarak sýfýra "code" adlý baþka bir deðiþken ekliyoruz yani 2 deðiþkenimiz var.\\
+speed=50
+code = 0
+\begin{figure}[h!]
+     \centering
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{val_1}
+         \caption{$y=x$}
+         \label{fig:y equals x}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{val_2}
+         \caption{$y=3sinx$}
+         \label{fig:three sin x}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{val_3}
+         \caption{$y=5/x$}
+         \label{fig:five over x}
+     \end{subfigure}
+        \caption{Three simple graphs}
+        \label{fig:three graphs}
+\end{figure}
+
+Deðiþkenlerimizi aldýktan sonra bir döngü ihtiyacýmýz var. Programý hep çalýþýr durumda býrakmak istiyoruz. Þimdi bunu while döngüsüyle nasýl yapabileceðimizi açýklýyoruz.
+\begin{figure}[h!]
+     \centering
+     \begin{subfigure}[b]{0.23\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{while_1}
+         \caption{$y=x$}
+         \label{fig:y equals x}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.23\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{while_2}
+         \caption{$y=3sinx$}
+         \label{fig:three sin x}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.23\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{while_3}
+         \caption{$y=5/x$}
+         \label{fig:five over x}
+     \end{subfigure}
+         \hfill
+     \begin{subfigure}[b]{0.23\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{while_4}
+         \caption{$y=5/x$}
+         \label{fig:five over x}
+     \end{subfigure}
+        \caption{Three simple graphs}
+        \label{fig:forth graphs}
+\end{figure}
+\newpage
+Daha sonra uzaktan kumandadan gelen deðere ihtiyacýmýz var, bunu yapabilmek için kumandadan gelen deðeri code deðiþkenimize atamamýz gerekiyor.
+\begin{figure}[h!]
+     \centering
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{ata_1}
+         \caption{$y=x$}
+         \label{fig:y equals x}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{ata_2}
+         \caption{$y=3sinx$}
+         \label{fig:three sin x}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{ata_3}
+         \caption{$y=5/x$}
+         \label{fig:five over x}
+     \end{subfigure}
+         \hfill
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{ata_4}
+         \caption{$y=5/x$}
+         \label{fig:five over x}
+     \end{subfigure}
+      \hfill
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{ata_5}
+         \caption{$y=5/x$}
+         \label{fig:five over x}
+     \end{subfigure}
+      \hfill
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{ata_6}
+         \caption{$y=5/x$}
+         \label{fig:five over x}
+     \end{subfigure}
+        \caption{Three simple graphs}
+        \label{fig:forth graphs}
+\end{figure}
+\newpage
+Uzaktan kumandadan gelen deðeri alabildik. Þimdi gelen deðerleri kontrol edebilmek için koþullarý ayarlayacaðýz ve buna göre robotumuzun hareketlerini yöneteceðiz.\\
+ilk koþul gelen sayýnýn 2 olup olmadýðýný kontrol etmektir.
+\begin{figure}[h!]
+     \centering
+     \begin{subfigure}[b]{0.23\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{if_1}
+         \caption{$y=x$}
+         \label{fig:y equals x}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.23\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{if_2}
+         \caption{$y=3sinx$}
+         \label{fig:three sin x}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.23\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{if_3}
+         \caption{$y=5/x$}
+         \label{fig:five over x}
+     \end{subfigure}
+         \hfill
+     \begin{subfigure}[b]{0.23\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{if_4}
+         \caption{$y=5/x$}
+         \label{fig:five over x}
+     \end{subfigure}
+        \caption{Three simple graphs}
+        \label{fig:forth graphs}
+\end{figure}
+
+Gelen sayýnýn deðerinin 2 olduðunu varsayalým, o zaman robotu 50 hýzla ilerleteceðiz\\
+Bunu yapmak için motor0'a 50 ve motor1'e -50 atadýk
+
+\begin{figure}[h!]
+     \centering
+     \begin{subfigure}[b]{0.17\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{motor_1}
+         \caption{$y=x$}
+         \label{fig:y equals x}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.17\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{motor_2}
+         \caption{$y=3sinx$}
+         \label{fig:three sin x}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.17\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{motor_3}
+         \caption{$y=5/x$}
+         \label{fig:five over x}
+     \end{subfigure}
+         \hfill
+     \begin{subfigure}[b]{0.17\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{motor_4}
+         \caption{$y=5/x$}
+         \label{fig:five over x}
+     \end{subfigure}
+      \hfill
+     \begin{subfigure}[b]{0.17\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{motor_5}
+         \caption{$y=5/x$}
+         \label{fig:five over x}
+     \end{subfigure}
+        \caption{Three simple graphs}
+        \label{fig:forth graphs}
+\end{figure}
+\newpage
+Kumandadan gelen deðer 8 ise motor0 -50 ve motor1 50 atayarak robotumuz geriye gidiyor
+\begin{figure}[h!]
+\centering
+  \includegraphics[width=0.6\textwidth]{code_8.png}
+  \caption{Projede kullandýðýmýz robot}
+  \label{fig:robot}
+\end{figure}
+
+Robotun saða dönmesini saðlamak için her iki motora da 50 hýz atamamýz yeterlidir.\\
+bu iþlemi gerçekleþtirmek için uzaktan kumandaya 6 deðerini veriyoruz
+\begin{figure}[h!]
+\centering
+  \includegraphics[width=0.7\textwidth]{code_6.png}
+  \caption{Projede kullandýðýmýz robot}
+  \label{fig:robot}
+\end{figure}
+
+Tabii saða dönebiliyorsa sola da dönebilir, peki bunu nasýl yapacaðýz? \\
+Basit bir þekilde her iki motora da -50 atayarak gerçekleþtirebiliriz.\\
+bu iþlem için 4 deðerini verebiliriz
+\begin{figure}[h!]
+\centering
+  \includegraphics[width=0.6\textwidth]{code_4.png}
+  \caption{Projede kullandýðýmýz robot}
+  \label{fig:robot}
+\end{figure}
+
+Robotu istediðimiz yöne yönlendirebildik, þimdi 5 tuþuna bastýðýmýzda durmasýný istiyoruz.
+\begin{figure}[h!]
+\centering
+  \includegraphics[width=0.6\textwidth]{code_5.png}
+  \caption{Projede kullandýðýmýz robot}
+  \label{fig:robot}
+\end{figure}
+
+Ýlk uygulamanýz bitti, size uygulama sýrasýnda kullandýðýmýz malzemelerin bir tablosunu yapacaðýz.
+\begin{figure}[h!]
+     \centering
+     \begin{subfigure}[b]{0.2\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{robot}
+         \caption*{ Robot}
+         \label{fig:robot}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.2\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{kumanda_algo}
+         \caption*{ Kumanda}
+         \label{fig:kumanda}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.2\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{cable}
+         \caption*{ Kablo}
+         \label{fig:cable}
+     \end{subfigure}
+         \hfill
+     \begin{subfigure}[b]{0.2\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{sensor}
+         \caption*{ Sensör}
+         \label{fig:sensor}
+     \end{subfigure}
+      \hfill
+\end{figure}

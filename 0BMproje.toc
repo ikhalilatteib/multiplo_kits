@@ -1,0 +1,17 @@
+\babel@toc {turkish}{}\relax 
+\contentsline {section}{\"OZET}{ii}{figure.caption.2}%
+\contentsline {section}{ABSTRACT}{iii}{figure.caption.2}%
+\contentsline {section}{TE\c SEKK\"UR}{iv}{figure.caption.2}%
+\contentsline {section}{\c SEK\.IL L\.ISTES\.I}{vi}{section*.3}%
+\contentsline {section}{TABLO L\.ISTES\.I}{vii}{section*.3}%
+\contentsline {section}{\numberline {1}G\.IR\.I\c S}{1}{section.1}%
+\contentsline {section}{\numberline {2}KULLANILAN YAZILIMLAR VE K\"UT\"UPHANELER}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Multiplo}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}miniBloq}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}PROJEN\.IN TASARIMI VE \c CALI\c SMA YAPISI}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Projenin Tasar\IeC {\i }m\IeC {\i }}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Projenin \c Cal\IeC {\i }\c sma Yap\IeC {\i }s\IeC {\i }}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Kumanda ile hareket ettirme}{5}{subsubsection.3.2.1}%
+\contentsline {section}{\numberline {4}SONU\c CLAR VE \"ONER\.ILER}{12}{section.4}%
+\contentsline {section}{KAYNAKLAR}{13}{section.4}%
+\contentsline {section}{\"OZGE\c CM\.I\c S}{14}{section*.18}%
