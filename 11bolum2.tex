@@ -10,10 +10,10 @@ Bu projede iki arka tekerleði ve bir önde birer tekerleði olan bir Multiplo robo
   \label{fig:robot}
 \end{figure}
 
-Giriþte size söylediðimiz gibi, bu proje iki uygulamayý gerçekleþtirmeye çalýþýyor
+Giriþte size söylediðimiz gibi, bu proje iki uygulamayý gerçekleþtirmeye amaçlýdýr
 \begin{itemize}
 \item Kumanda ile hareket ettirmek
-\item Engel Algýlayan
+\item Engel Algýlama
 \end{itemize}
 
 olup projenin çalýþma yapýsý kýsmýnda bu uygulamalar ile ilgili detaylý bilgiler verilmiþtir.
@@ -21,7 +21,7 @@ olup projenin çalýþma yapýsý kýsmýnda bu uygulamalar ile ilgili detaylý bilgiler
 \subsection{Projenin Çalýþma Yapýsý}
 Bu bölümde projenin çalýþma yapýsýndan bahsedilmektedir.
 \subsubsection{Kumanda ile hareket ettirme}
-Programlama aþamasýna geçmeden önce adýmlarý bir akýþ diyagramý ile açýklamaya çalýþýyoruz.
+Programlama aþamasýna geçmeden önce adýmlarý \label{fig:kumanda} bir akýþ diyagramý ile açýklamaya çalýþýyoruz.
 \begin{figure}[h!]
 \centering
   \includegraphics[scale=0.4]{kumanda.png}
@@ -39,25 +39,25 @@ code = 0
      \begin{subfigure}[b]{0.3\textwidth}
          \centering
          \includegraphics[width=\textwidth]{val_1}
-         \caption{$y=x$}
-         \label{fig:y equals x}
+         \caption{}
+         \label{fig:val_1}
      \end{subfigure}
      \hfill
      \begin{subfigure}[b]{0.3\textwidth}
          \centering
          \includegraphics[width=\textwidth]{val_2}
-         \caption{$y=3sinx$}
-         \label{fig:three sin x}
+         \caption{}
+         \label{fig:val_2}
      \end{subfigure}
      \hfill
      \begin{subfigure}[b]{0.3\textwidth}
          \centering
          \includegraphics[width=\textwidth]{val_3}
-         \caption{$y=5/x$}
-         \label{fig:five over x}
+         \caption{}
+         \label{fig:val_3}
      \end{subfigure}
-        \caption{Three simple graphs}
-        \label{fig:three graphs}
+        \caption{miniBloq deðiþken tanýmla}
+        \label{fig:miniBloq degisken tanimla}
 \end{figure}
 
 Deðiþkenlerimizi aldýktan sonra bir döngü ihtiyacýmýz var. Programý hep çalýþýr durumda býrakmak istiyoruz. Þimdi bunu while döngüsüyle nasýl yapabileceðimizi açýklýyoruz.
@@ -66,32 +66,32 @@ Deðiþkenlerimizi aldýktan sonra bir döngü ihtiyacýmýz var. Programý hep çalýþýr 
      \begin{subfigure}[b]{0.23\textwidth}
          \centering
          \includegraphics[width=\textwidth]{while_1}
-         \caption{$y=x$}
-         \label{fig:y equals x}
+         \caption{}
+         \label{fig:while_1}
      \end{subfigure}
      \hfill
      \begin{subfigure}[b]{0.23\textwidth}
          \centering
          \includegraphics[width=\textwidth]{while_2}
-         \caption{$y=3sinx$}
-         \label{fig:three sin x}
+         \caption{}
+         \label{fig:while_2}
      \end{subfigure}
      \hfill
      \begin{subfigure}[b]{0.23\textwidth}
          \centering
          \includegraphics[width=\textwidth]{while_3}
-         \caption{$y=5/x$}
-         \label{fig:five over x}
+         \caption{}
+         \label{fig:while_3}
      \end{subfigure}
          \hfill
      \begin{subfigure}[b]{0.23\textwidth}
          \centering
          \includegraphics[width=\textwidth]{while_4}
-         \caption{$y=5/x$}
-         \label{fig:five over x}
+         \caption{}
+         \label{fig:while_4}
      \end{subfigure}
-        \caption{Three simple graphs}
-        \label{fig:forth graphs}
+        \caption{While Döngüsü tanýmlama aþamalarý}
+        \label{fig:while_dongusu}
 \end{figure}
 \newpage
 Daha sonra uzaktan kumandadan gelen deðere ihtiyacýmýz var, bunu yapabilmek için kumandadan gelen deðeri code deðiþkenimize atamamýz gerekiyor.
@@ -100,46 +100,46 @@ Daha sonra uzaktan kumandadan gelen deðere ihtiyacýmýz var, bunu yapabilmek için
      \begin{subfigure}[b]{0.3\textwidth}
          \centering
          \includegraphics[width=\textwidth]{ata_1}
-         \caption{$y=x$}
-         \label{fig:y equals x}
+         \caption{}
+         \label{fig:ata_1}
      \end{subfigure}
      \hfill
      \begin{subfigure}[b]{0.3\textwidth}
          \centering
          \includegraphics[width=\textwidth]{ata_2}
-         \caption{$y=3sinx$}
-         \label{fig:three sin x}
+         \caption{}
+         \label{fig:ata_2}
      \end{subfigure}
      \hfill
      \begin{subfigure}[b]{0.3\textwidth}
          \centering
          \includegraphics[width=\textwidth]{ata_3}
-         \caption{$y=5/x$}
-         \label{fig:five over x}
+         \caption{}
+         \label{fig:ata_3}
      \end{subfigure}
          \hfill
      \begin{subfigure}[b]{0.3\textwidth}
          \centering
          \includegraphics[width=\textwidth]{ata_4}
-         \caption{$y=5/x$}
-         \label{fig:five over x}
+         \caption{}
+         \label{fig:ata_4}
      \end{subfigure}
       \hfill
      \begin{subfigure}[b]{0.3\textwidth}
          \centering
          \includegraphics[width=\textwidth]{ata_5}
-         \caption{$y=5/x$}
-         \label{fig:five over x}
+         \caption{}
+         \label{fig:ata_5}
      \end{subfigure}
       \hfill
      \begin{subfigure}[b]{0.3\textwidth}
          \centering
          \includegraphics[width=\textwidth]{ata_6}
-         \caption{$y=5/x$}
-         \label{fig:five over x}
+         \caption{}
+         \label{fig:ata_6}
      \end{subfigure}
-        \caption{Three simple graphs}
-        \label{fig:forth graphs}
+        \caption{Deðiþkeni deðer atma iþlemler}
+        \label{fig:degisken_val}
 \end{figure}
 \newpage
 Uzaktan kumandadan gelen deðeri alabildik. Þimdi gelen deðerleri kontrol edebilmek için koþullarý ayarlayacaðýz ve buna göre robotumuzun hareketlerini yöneteceðiz.\\
@@ -149,32 +149,32 @@ ilk koþul gelen sayýnýn 2 olup olmadýðýný kontrol etmektir.
      \begin{subfigure}[b]{0.23\textwidth}
          \centering
          \includegraphics[width=\textwidth]{if_1}
-         \caption{$y=x$}
-         \label{fig:y equals x}
+         \caption{}
+         \label{fig:if_1}
      \end{subfigure}
      \hfill
      \begin{subfigure}[b]{0.23\textwidth}
          \centering
          \includegraphics[width=\textwidth]{if_2}
-         \caption{$y=3sinx$}
-         \label{fig:three sin x}
+         \caption{}
+         \label{fig:if_2}
      \end{subfigure}
      \hfill
      \begin{subfigure}[b]{0.23\textwidth}
          \centering
          \includegraphics[width=\textwidth]{if_3}
-         \caption{$y=5/x$}
-         \label{fig:five over x}
+         \caption{}
+         \label{fig:if_3}
      \end{subfigure}
          \hfill
      \begin{subfigure}[b]{0.23\textwidth}
          \centering
          \includegraphics[width=\textwidth]{if_4}
-         \caption{$y=5/x$}
-         \label{fig:five over x}
+         \caption{}
+         \label{fig:if_4}
      \end{subfigure}
-        \caption{Three simple graphs}
-        \label{fig:forth graphs}
+        \caption{Birinci koþul kumandadan gelen deðer 2 ise}
+        \label{fig:kumanda_value_2}
 \end{figure}
 
 Gelen sayýnýn deðerinin 2 olduðunu varsayalým, o zaman robotu 50 hýzla ilerleteceðiz\\
@@ -185,47 +185,47 @@ Bunu yapmak için motor0'a 50 ve motor1'e -50 atadýk
      \begin{subfigure}[b]{0.17\textwidth}
          \centering
          \includegraphics[width=\textwidth]{motor_1}
-         \caption{$y=x$}
-         \label{fig:y equals x}
+         \caption{}
+         \label{fig:motor_1}
      \end{subfigure}
      \hfill
      \begin{subfigure}[b]{0.17\textwidth}
          \centering
          \includegraphics[width=\textwidth]{motor_2}
-         \caption{$y=3sinx$}
-         \label{fig:three sin x}
+         \caption{}
+         \label{fig:motor_2}
      \end{subfigure}
      \hfill
      \begin{subfigure}[b]{0.17\textwidth}
          \centering
          \includegraphics[width=\textwidth]{motor_3}
-         \caption{$y=5/x$}
-         \label{fig:five over x}
+         \caption{}
+         \label{fig:motor_3}
      \end{subfigure}
          \hfill
      \begin{subfigure}[b]{0.17\textwidth}
          \centering
          \includegraphics[width=\textwidth]{motor_4}
-         \caption{$y=5/x$}
-         \label{fig:five over x}
+         \caption{}
+         \label{fig:motor_4}
      \end{subfigure}
       \hfill
      \begin{subfigure}[b]{0.17\textwidth}
          \centering
          \includegraphics[width=\textwidth]{motor_5}
-         \caption{$y=5/x$}
-         \label{fig:five over x}
+         \caption{}
+         \label{fig:motor_5}
      \end{subfigure}
-        \caption{Three simple graphs}
-        \label{fig:forth graphs}
+        \caption{Ýleriye doðru}
+        \label{fig:devant}
 \end{figure}
 \newpage
 Kumandadan gelen deðer 8 ise motor0 -50 ve motor1 50 atayarak robotumuz geriye gidiyor
 \begin{figure}[h!]
 \centering
   \includegraphics[width=0.6\textwidth]{code_8.png}
-  \caption{Projede kullandýðýmýz robot}
-  \label{fig:robot}
+  \caption{Geriye doðru }
+  \label{fig:code_8}
 \end{figure}
 
 Robotun saða dönmesini saðlamak için her iki motora da 50 hýz atamamýz yeterlidir.\\
@@ -233,8 +233,8 @@ bu iþlemi gerçekleþtirmek için uzaktan kumandaya 6 deðerini veriyoruz
 \begin{figure}[h!]
 \centering
   \includegraphics[width=0.7\textwidth]{code_6.png}
-  \caption{Projede kullandýðýmýz robot}
-  \label{fig:robot}
+  \caption{Saða dön}
+  \label{fig:code_6}
 \end{figure}
 
 Tabii saða dönebiliyorsa sola da dönebilir, peki bunu nasýl yapacaðýz? \\
@@ -243,18 +243,19 @@ bu iþlem için 4 deðerini verebiliriz
 \begin{figure}[h!]
 \centering
   \includegraphics[width=0.6\textwidth]{code_4.png}
-  \caption{Projede kullandýðýmýz robot}
-  \label{fig:robot}
+  \caption{Sola dön}
+  \label{fig:code_4}
 \end{figure}
 
 Robotu istediðimiz yöne yönlendirebildik, þimdi 5 tuþuna bastýðýmýzda durmasýný istiyoruz.
 \begin{figure}[h!]
 \centering
   \includegraphics[width=0.6\textwidth]{code_5.png}
-  \caption{Projede kullandýðýmýz robot}
-  \label{fig:robot}
+  \caption{Reset atma}
+  \label{fig:code_5}
 \end{figure}
 
+\newpage
 Ýlk uygulamanýz bitti, size uygulama sýrasýnda kullandýðýmýz malzemelerin bir tablosunu yapacaðýz.
 \begin{figure}[h!]
      \centering
@@ -285,5 +286,40 @@ Robotu istediðimiz yöne yönlendirebildik, þimdi 5 tuþuna bastýðýmýzda durmasýný 
          \caption*{ Sensör}
          \label{fig:sensor}
      \end{subfigure}
-      \hfill
+      \caption{Ýlk uygulamada kullandýðýmýz malzemeler}
+      
 \end{figure}
+
+\subsubsection{Engel Algýlama}
+Bu projedeki ikinci uygulamamýz olan robot bir engelle karþýlaþtýðýnda kendi kendine duracaktýr.
+Mesafeyi tespit etmek için robot, HC-SR04 ultrasonik sensörü kullanýr. Böylece bu sensör her 10 mikrosaniyede bir ultrasonik ses dalgalarý gönderir ve eðer önünde bir engel varsa sensör yankýyý alýr.
+
+\textbf{Kablolama}\\
+Burada size sensörü robota nasýl baðlayabileceðinizi gösteriyoruz
+\begin{figure}[h!]
+\centering
+  \includegraphics[width=0.9\textwidth]{cablage.jpg}
+  \caption{HC-SR04 ultrasonik sensörü baðlanmasý}
+  \label{fig:cablage}
+\end{figure}
+\newpage
+\textbf{Akýþ Diyagramý}\\
+\begin{figure}[h!]
+\centering
+  \includegraphics[width=0.9\textwidth]{engel.png}
+  \caption{Engel algýlayan robot akiþ diyagramý}
+  \label{fig:engel}
+\end{figure}
+
+Akýþ diyagramý da gördüðümüz gibi, programý sürekli çalýþýr durumda tutmak için while döngüsü ile baþlattýk. program otomatik olarak baþladýðýnda robot 50 hýz ile ileri doðru hareket eder ve ayný zamanda sensör sayesinde herhangi bir engel ile arasýndaki mesafeyi kontrol eder, engele olan mesafe 10'dan az ise robot durur ve sonra her iki saniyede bir engel olup olmadýðýný kontrol eder
+
+\newpage
+\textbf{Programlama}\\
+Kod kismi bakacak olursak
+\begin{figure}[h!]
+\centering
+  \includegraphics[width=0.7\textwidth]{engel_kod.png}
+  \caption{Engel algýlayan robot kodu}
+  \label{fig:engel_kod}
+\end{figure}
+

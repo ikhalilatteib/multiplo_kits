@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.26)  3 JAN 2022 00:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.26)  6 JAN 2022 14:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -713,139 +713,7 @@ File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
 ) (5icindekiler.aux) (7sekillistesi.aux) (8tablolistesi.aux) (9giris.aux)
 (10bolum1.aux) (11bolum2.aux
 
-LaTeX Warning: Label `fig:y equals x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:y equals x' multiply defined.
-
-
-LaTeX Warning: Label `fig:three sin x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:three sin x' multiply defined.
-
-
-LaTeX Warning: Label `fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `fig:y equals x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:y equals x' multiply defined.
-
-
-LaTeX Warning: Label `fig:three sin x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:three sin x' multiply defined.
-
-
-LaTeX Warning: Label `fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `fig:forth graphs' multiply defined.
-
-
-LaTeX Warning: Label `fig:y equals x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:y equals x' multiply defined.
-
-
-LaTeX Warning: Label `fig:three sin x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:three sin x' multiply defined.
-
-
-LaTeX Warning: Label `fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `fig:forth graphs' multiply defined.
-
-
-LaTeX Warning: Label `fig:y equals x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:y equals x' multiply defined.
-
-
-LaTeX Warning: Label `fig:three sin x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:three sin x' multiply defined.
-
-
-LaTeX Warning: Label `fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:five over x' multiply defined.
-
-
-LaTeX Warning: Label `fig:forth graphs' multiply defined.
-
-
-LaTeX Warning: Label `fig:robot' multiply defined.
-
-
-LaTeX Warning: Label `fig:robot' multiply defined.
-
-
-LaTeX Warning: Label `fig:robot' multiply defined.
-
-
-LaTeX Warning: Label `fig:robot' multiply defined.
+LaTeX Warning: Label `fig:kumanda' multiply defined.
 
 
 LaTeX Warning: Label `fig:robot' multiply defined.
@@ -853,7 +721,26 @@ LaTeX Warning: Label `fig:robot' multiply defined.
 
 LaTeX Warning: Label `fig:kumanda' multiply defined.
 
-) (12sonuclar.aux) (14kaynaklar.aux) (15ozgecmis.aux))
+) (12sonuclar.aux
+
+LaTeX Warning: Label `fig:robot' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:robot' multiply defined.
+
+
+LaTeX Warning: Label `fig:kumanda' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:kumanda' multiply defined.
+
+
+LaTeX Warning: Label `fig:cable' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:cable' multiply defined.
+
+) (14kaynaklar.aux) (15ozgecmis.aux))
 \openout1 = `0BMproje.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -955,13 +842,13 @@ Package caption Info: End \AtBeginDocument code.
 \openout2 = `1diskapak.aux'.
 
  (1diskapak.tex
-<logomuz.jpg, id=66, 447.17062pt x 578.16pt>
+<logomuz.jpg, id=70, 447.17062pt x 578.16pt>
 File: logomuz.jpg Graphic file (type jpg)
 <use logomuz.jpg>
 Package pdftex.def Info: logomuz.jpg  used on input line 4.
 (pdftex.def)             Requested size: 89.43253pt x 115.62994pt.
 )
-<filigran.jpg, id=67, 597.432pt x 845.0772pt>
+<filigran.jpg, id=71, 597.432pt x 845.0772pt>
 File: filigran.jpg Graphic file (type jpg)
 <use filigran.jpg>
 Package pdftex.def Info: filigran.jpg  used on input line 17.
@@ -987,11 +874,41 @@ Package pdftex.def Info: logomuz.jpg  used on input line 5.
 ]
 \openout2 = `3ozetabstract.aux'.
 
- (3ozetabstract.tex [2.3
+ (3ozetabstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Overfull \hbox (18.41605pt too wide) in paragraph at lines 12--13
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--19
+
+ []
+
+[2.3
 
 
 
-]) [3.4]
+]
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Overfull \hbox (14.312pt too wide) in paragraph at lines 33--36
+[] 
+ []
+
+) [3.4]
 \openout2 = `4tesekkur.aux'.
 
  (4tesekkur.tex) [4.5
@@ -1001,10 +918,10 @@ Package pdftex.def Info: logomuz.jpg  used on input line 5.
 ]
 \openout2 = `5icindekiler.aux'.
 
- (5icindekiler.tex
-(0BMproje.toc
+ (5icindekiler.tex (0BMproje.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
- (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
+
+(C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
@@ -1086,7 +1003,7 @@ Overfull \hbox (37.88258pt too wide) in paragraph at lines 23--44
  [][] 
  []
 
-<minibloq.png, id=182, 1028.34187pt x 542.025pt>
+<minibloq.png, id=206, 1028.34187pt x 542.025pt>
 File: minibloq.png Graphic file (type png)
 <use minibloq.png>
 Package pdftex.def Info: minibloq.png  used on input line 48.
@@ -1095,7 +1012,7 @@ Package pdftex.def Info: minibloq.png  used on input line 48.
 \openout2 = `11bolum2.aux'.
 
  (11bolum2.tex
-<robot.png, id=190, 767.86874pt x 545.03625pt>
+<robot.png, id=215, 767.86874pt x 545.03625pt>
 File: robot.png Graphic file (type png)
 <use robot.png>
 Package pdftex.def Info: robot.png  used on input line 8.
@@ -1110,122 +1027,122 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 
 
  <./robot.png>]
-<kumanda.png, id=196, 780.9175pt x 1120.185pt>
+<kumanda.png, id=221, 780.9175pt x 1120.185pt>
 File: kumanda.png Graphic file (type png)
 <use kumanda.png>
 Package pdftex.def Info: kumanda.png  used on input line 27.
 (pdftex.def)             Requested size: 312.36147pt x 448.06606pt.
  [5.13 <./kumanda.png>]
-<val_1.png, id=203, 194.97844pt x 194.22563pt>
+<val_1.png, id=228, 194.97844pt x 194.22563pt>
 File: val_1.png Graphic file (type png)
 <use val_1.png>
 Package pdftex.def Info: val_1.png  used on input line 41.
 (pdftex.def)             Requested size: 128.0387pt x 127.54915pt.
-<val_2.png, id=204, 528.47438pt x 496.85625pt>
+<val_2.png, id=229, 528.47438pt x 496.85625pt>
 File: val_2.png Graphic file (type png)
 <use val_2.png>
 Package pdftex.def Info: val_2.png  used on input line 48.
 (pdftex.def)             Requested size: 128.0387pt x 120.37756pt.
-<val_3.png, id=205, 243.91125pt x 225.84375pt>
+<val_3.png, id=230, 243.91125pt x 225.84375pt>
 File: val_3.png Graphic file (type png)
 <use val_3.png>
 Package pdftex.def Info: val_3.png  used on input line 55.
 (pdftex.def)             Requested size: 128.0387pt x 118.55595pt.
-<while_1.png, id=206, 264.99pt x 389.95688pt>
+<while_1.png, id=231, 264.99pt x 389.95688pt>
 File: while_1.png Graphic file (type png)
 <use while_1.png>
 Package pdftex.def Info: while_1.png  used on input line 68.
 (pdftex.def)             Requested size: 98.16019pt x 144.45433pt.
-<while_2.png, id=207, 271.76532pt x 302.63063pt>
+<while_2.png, id=232, 271.76532pt x 302.63063pt>
 File: while_2.png Graphic file (type png)
 <use while_2.png>
 Package pdftex.def Info: while_2.png  used on input line 75.
 (pdftex.def)             Requested size: 98.16019pt x 109.30711pt.
-<while_3.png, id=208, 492.33937pt x 451.6875pt>
+<while_3.png, id=233, 492.33937pt x 451.6875pt>
 File: while_3.png Graphic file (type png)
 <use while_3.png>
 Package pdftex.def Info: while_3.png  used on input line 82.
 (pdftex.def)             Requested size: 98.16019pt x 90.05331pt.
-<while_4.png, id=209, 243.15843pt x 281.55188pt>
+<while_4.png, id=234, 243.15843pt x 281.55188pt>
 File: while_4.png Graphic file (type png)
 <use while_4.png>
 Package pdftex.def Info: while_4.png  used on input line 89.
 (pdftex.def)             Requested size: 98.16019pt x 113.6584pt.
  [6.14 <./val_1.png> <./val_2.png> <./val_3.png> <./while_1.png> <./while_2.png
 > <./while_3.png> <./while_4.png>]
-<ata_1.png, id=223, 176.91093pt x 381.67593pt>
+<ata_1.png, id=246, 176.91093pt x 381.67593pt>
 File: ata_1.png Graphic file (type png)
 <use ata_1.png>
 Package pdftex.def Info: ata_1.png  used on input line 102.
 (pdftex.def)             Requested size: 128.0387pt x 276.23914pt.
-<ata_2.png, id=224, 192.72pt x 313.17pt>
+<ata_2.png, id=247, 192.72pt x 313.17pt>
 File: ata_2.png Graphic file (type png)
 <use ata_2.png>
 Package pdftex.def Info: ata_2.png  used on input line 109.
 (pdftex.def)             Requested size: 128.0387pt x 208.0595pt.
-<ata_3.png, id=225, 188.95593pt x 331.2375pt>
+<ata_3.png, id=248, 188.95593pt x 331.2375pt>
 File: ata_3.png Graphic file (type png)
 <use ata_3.png>
 Package pdftex.def Info: ata_3.png  used on input line 116.
 (pdftex.def)             Requested size: 128.0387pt x 224.45004pt.
-<ata_4.png, id=226, 190.46156pt x 321.45094pt>
+<ata_4.png, id=249, 190.46156pt x 321.45094pt>
 File: ata_4.png Graphic file (type png)
 <use ata_4.png>
 Package pdftex.def Info: ata_4.png  used on input line 123.
 (pdftex.def)             Requested size: 128.0387pt x 216.10184pt.
-<ata_5.png, id=227, 493.0922pt x 363.60844pt>
+<ata_5.png, id=250, 493.0922pt x 363.60844pt>
 File: ata_5.png Graphic file (type png)
 <use ata_5.png>
 Package pdftex.def Info: ata_5.png  used on input line 130.
 (pdftex.def)             Requested size: 128.0387pt x 94.4139pt.
-<ata_6.png, id=228, 197.98969pt x 316.18124pt>
+<ata_6.png, id=251, 197.98969pt x 316.18124pt>
 File: ata_6.png Graphic file (type png)
 <use ata_6.png>
 Package pdftex.def Info: ata_6.png  used on input line 137.
 (pdftex.def)             Requested size: 128.0387pt x 204.47327pt.
  [7.15 <./ata_1.png> <./ata_2.png> <./ata_3.png> <./ata_4.png> <./ata_5.png> <.
 /ata_6.png>]
-<if_1.png, id=239, 106.14656pt x 226.59656pt>
+<if_1.png, id=262, 106.14656pt x 226.59656pt>
 File: if_1.png Graphic file (type png)
 <use if_1.png>
 Package pdftex.def Info: if_1.png  used on input line 151.
 (pdftex.def)             Requested size: 98.16019pt x 209.55702pt.
-<if_2.png, id=240, 199.49532pt x 416.30531pt>
+<if_2.png, id=263, 199.49532pt x 416.30531pt>
 File: if_2.png Graphic file (type png)
 <use if_2.png>
 Package pdftex.def Info: if_2.png  used on input line 158.
 (pdftex.def)             Requested size: 98.16019pt x 204.84259pt.
-<if_3.png, id=241, 496.10344pt x 515.67656pt>
+<if_3.png, id=264, 496.10344pt x 515.67656pt>
 File: if_3.png Graphic file (type png)
 <use if_3.png>
 Package pdftex.def Info: if_3.png  used on input line 165.
 (pdftex.def)             Requested size: 98.16019pt x 102.03188pt.
-<if_4.png, id=242, 270.25969pt x 447.92343pt>
+<if_4.png, id=265, 270.25969pt x 447.92343pt>
 File: if_4.png Graphic file (type png)
 <use if_4.png>
 Package pdftex.def Info: if_4.png  used on input line 172.
 (pdftex.def)             Requested size: 98.16019pt x 162.6876pt.
-<motor_1.png, id=243, 107.65219pt x 197.23688pt>
+<motor_1.png, id=266, 107.65219pt x 197.23688pt>
 File: motor_1.png Graphic file (type png)
 <use motor_1.png>
 Package pdftex.def Info: motor_1.png  used on input line 187.
 (pdftex.def)             Requested size: 72.55374pt x 132.9335pt.
-<motor_2.png, id=244, 247.67531pt x 513.41812pt>
+<motor_2.png, id=267, 247.67531pt x 513.41812pt>
 File: motor_2.png Graphic file (type png)
 <use motor_2.png>
 Package pdftex.def Info: motor_2.png  used on input line 194.
 (pdftex.def)             Requested size: 72.55374pt x 150.39941pt.
-<motor_3.png, id=245, 274.02374pt x 545.78906pt>
+<motor_3.png, id=268, 274.02374pt x 545.78906pt>
 File: motor_3.png Graphic file (type png)
 <use motor_3.png>
 Package pdftex.def Info: motor_3.png  used on input line 201.
 (pdftex.def)             Requested size: 72.55374pt x 144.50848pt.
-<motor_4.png, id=246, 535.2497pt x 534.49687pt>
+<motor_4.png, id=269, 535.2497pt x 534.49687pt>
 File: motor_4.png Graphic file (type png)
 <use motor_4.png>
 Package pdftex.def Info: motor_4.png  used on input line 208.
 (pdftex.def)             Requested size: 72.55374pt x 72.44757pt.
-<motor_5.png, id=247, 294.34969pt x 536.0025pt>
+<motor_5.png, id=270, 294.34969pt x 536.0025pt>
 File: motor_5.png Graphic file (type png)
 <use motor_5.png>
 Package pdftex.def Info: motor_5.png  used on input line 215.
@@ -1233,95 +1150,111 @@ Package pdftex.def Info: motor_5.png  used on input line 215.
 
 [8.16 <./if_1.png> <./if_2.png> <./if_3.png> <./if_4.png> <./motor_1.png> <./mo
 tor_2.png> <./motor_3.png> <./motor_4.png> <./motor_5.png>]
-<code_8.png, id=261, 405.76593pt x 417.81094pt>
+<code_8.png, id=284, 405.76593pt x 417.81094pt>
 File: code_8.png Graphic file (type png)
 <use code_8.png>
 Package pdftex.def Info: code_8.png  used on input line 226.
 (pdftex.def)             Requested size: 256.07741pt x 263.68768pt.
-<code_6.png, id=262, 391.4625pt x 277.035pt>
+<code_6.png, id=285, 391.4625pt x 277.035pt>
 File: code_6.png Graphic file (type png)
 <use code_6.png>
 Package pdftex.def Info: code_6.png  used on input line 235.
 (pdftex.def)             Requested size: 298.75264pt x 211.4365pt.
-<code_4.png, id=263, 384.6872pt x 323.70938pt>
+<code_4.png, id=286, 384.6872pt x 323.70938pt>
 File: code_4.png Graphic file (type png)
 <use code_4.png>
 Package pdftex.def Info: code_4.png  used on input line 245.
 (pdftex.def)             Requested size: 256.07741pt x 215.50111pt.
  [9.17 <./code_8.png> <./code_6.png>]
-<code_5.png, id=270, 372.64218pt x 301.8778pt>
+<code_5.png, id=293, 372.64218pt x 301.8778pt>
 File: code_5.png Graphic file (type png)
 <use code_5.png>
 Package pdftex.def Info: code_5.png  used on input line 253.
 (pdftex.def)             Requested size: 256.07741pt x 207.45757pt.
+ [10.18 <./code_4.png> <./code_5.png>]
 File: robot.png Graphic file (type png)
 <use robot.png>
-Package pdftex.def Info: robot.png  used on input line 263.
+Package pdftex.def Info: robot.png  used on input line 264.
 (pdftex.def)             Requested size: 85.35696pt x 60.58623pt.
-<kumanda_algo.png, id=271, 434.62375pt x 579.16376pt>
+<kumanda_algo.png, id=300, 434.62375pt x 579.16376pt>
 File: kumanda_algo.png Graphic file (type png)
 <use kumanda_algo.png>
-Package pdftex.def Info: kumanda_algo.png  used on input line 270.
+Package pdftex.def Info: kumanda_algo.png  used on input line 271.
 (pdftex.def)             Requested size: 85.35696pt x 113.73625pt.
-<cable.png, id=272, 579.16376pt x 434.62375pt>
+<cable.png, id=301, 579.16376pt x 434.62375pt>
 File: cable.png Graphic file (type png)
 <use cable.png>
-Package pdftex.def Info: cable.png  used on input line 277.
+Package pdftex.def Info: cable.png  used on input line 278.
 (pdftex.def)             Requested size: 85.35696pt x 64.05006pt.
-<sensor.png, id=273, 256.96pt x 256.96pt>
+<sensor.png, id=302, 256.96pt x 256.96pt>
 File: sensor.png Graphic file (type png)
 <use sensor.png>
-Package pdftex.def Info: sensor.png  used on input line 284.
+Package pdftex.def Info: sensor.png  used on input line 285.
 (pdftex.def)             Requested size: 85.35696pt x 85.35774pt.
-) [10.18 <./code_4.png> <./code_5.png>] [11.19 <./kumanda_algo.png> <./cable.pn
-g> <./sensor.png>]
+<cablage.jpg, id=303, 952.55875pt x 492.84125pt>
+File: cablage.jpg Graphic file (type jpg)
+<use cablage.jpg>
+Package pdftex.def Info: cablage.jpg  used on input line 301.
+(pdftex.def)             Requested size: 384.1096pt x 198.73479pt.
+ [11.19 <./kumanda_algo.png> <./cable.png> <./sensor.png> <./cablage.jpg>]
+<engel.png, id=312, 646.415pt x 571.13374pt>
+File: engel.png Graphic file (type png)
+<use engel.png>
+Package pdftex.def Info: engel.png  used on input line 309.
+(pdftex.def)             Requested size: 384.1096pt x 339.37999pt.
+ [12.20 <./engel.png>]
+<engel_kod.png, id=318, 371.3875pt x 675.52374pt>
+File: engel_kod.png Graphic file (type png)
+<use engel_kod.png>
+Package pdftex.def Info: engel_kod.png  used on input line 321.
+(pdftex.def)             Requested size: 298.75264pt x 543.41925pt.
+)
+[13.21 <./engel_kod.png>]
 \openout2 = `12sonuclar.aux'.
 
- (12sonuclar.tex) [12.20
+ (12sonuclar.tex
+File: robot.png Graphic file (type png)
+<use robot.png>
+Package pdftex.def Info: robot.png  used on input line 5.
+(pdftex.def)             Requested size: 128.0387pt x 90.87518pt.
+<jumper.jpg, id=324, 602.25pt x 602.25pt>
+File: jumper.jpg Graphic file (type jpg)
+<use jumper.jpg>
+Package pdftex.def Info: jumper.jpg  used on input line 12.
+(pdftex.def)             Requested size: 128.0387pt x 128.03845pt.
+<sens.jpg, id=325, 681.54625pt x 681.54625pt>
+File: sens.jpg Graphic file (type jpg)
+<use sens.jpg>
+Package pdftex.def Info: sens.jpg  used on input line 19.
+(pdftex.def)             Requested size: 128.0387pt x 128.03918pt.
+) [14.22
 
 
 
-]
+ <./jumper.jpg> <./sens.jpg>]
 \openout2 = `14kaynaklar.aux'.
 
- (14kaynaklar.tex
+
+(14kaynaklar.tex
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 5.
 
 
 (C:\Users\ibrah\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-[]\T1/ptm/m/n/12 CTAN,[][]$\T1/pcr/m/n/12 http : / / zelmanov . ptep-[]online .
- com / ctan / lshort _
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+[]\T1/ptm/m/n/12 miniBloq, [][]$\T1/pcr/m/n/12 http : / / blog . minibloq . org
+ / p / documentation .
  []
 
-
-Underfull \hbox (badness 1552) in paragraph at lines 5--6
-\T1/pcr/m/n/12 turkish . pdf$[][] \T1/ptm/m/n/12 [Zi-ya-ret Ta-rihi: 4 Ka-sm 2
-011][]---> Kay-nak ya-zar bi-lin-me-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--10
-[][][]$\T1/pcr/m/n/12 http : / / akgul . bilkent . edu . tr / Yunus / lshort . 
-pdf$[][] []\T1/ptm/m/n/12 ---> Kay-nak
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-[][][]$\T1/pcr/m/n/12 http : / / kisi . deu . edu . tr / umit . akinci / latexs
-eminer . pdf$[][][]\T1/ptm/m/n/12 --->
- []
-
-) [13.21
+) [15.23
 
 
 
 ]
 \openout2 = `15ozgecmis.aux'.
 
- (15ozgecmis.tex) [14.22
+ (15ozgecmis.tex) [16.24
 
 
 
@@ -1333,24 +1266,30 @@ ux) (5icindekiler.aux) (7sekillistesi.aux)
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `0BMproje.out' has not changed.
-(rerunfilecheck)             Checksum: A217AF89C8AF0175BCC0BB8E57FDCB08;2159.
+(rerunfilecheck)             Checksum: 7D92301FECDF369F4821E75C7C9ED185;2303.
  ) 
 Here is how much of TeX's memory you used:
- 24584 strings out of 478659
- 456361 string characters out of 2855776
- 727466 words of memory out of 3000000
- 42102 multiletter control sequences out of 15000+600000
- 428463 words of font info for 67 fonts, out of 8000000 for 9000
+ 24671 strings out of 478659
+ 457661 string characters out of 2855776
+ 728195 words of memory out of 3000000
+ 42182 multiletter control sequences out of 15000+600000
+ 426915 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,11n,118p,522b,540s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/courier/
-ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
-Output written on 0BMproje.pdf (22 pages, 1486315 bytes).
+ 115i,11n,118p,522b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+pdfTeX warning (dest): name{cite.k\\relax\040:2} has been referenced but does n
+ot exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{cite.k\\relax\040:1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX/f
+onts/type1/urw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/time
+s/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb>
+Output written on 0BMproje.pdf (24 pages, 1725712 bytes).
 PDF statistics:
- 352 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 311 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 375 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
+ 344 words of extra memory for PDF output out of 10000 (max. 10000000)
 
