@@ -1,23 +1,33 @@
-\section{KULLANILAN YAZILIMLAR VE KÜTÜPHANELER}
-Bu bölümde proje geliþtirme aþamasýnda kullanýlan yazýlýmlar ve kütüphanelerden bahsedilmiþtir.
+\section{KULLANILAN ROBOT VE PROGRAM}
+Bu bölümde proje geliþtirme aþamasýnda kullanýlan robot ve ve program bahsedilmiþtir.
 \subsection{Multiplo}
 Multiplo, kullanýcýlarýn yüksek teknolojili cihazlar tasarlamalarýný ve oluþturmalarýný saðlayan açýk kaynaklý bir felsefeye dayanan bir robotik bina sistemidir. Þu anda okullar ve robotik meraklýlarý tarafýndan öðretim materyali olarak kullanýlmaktadýr.
 
 Multiplo platformlarda düzenlenmiþtir. Platform, yaygýn robotik sorunlarý çözmek ve çözmek için oluþturulan bir sistem modülleri kümesidir.
 
-Çarpým dört bileþenin toplamýdýr. Her biri ayný öneme sahiptir, kullanýcýnýn bakýþ açýsýndan ortak bir felsefe, estetik ve his korur.
+Þekil \ref{fig:multi_robot}'de Mutliplo araç kiti örneðidir.
+\begin{figure}[h!]
+\centering
+  \includegraphics[scale=0.4]{robot.png}
+  \caption{Multiplo araç kiti}
+  \label{fig:multi_robot}
+\end{figure}
 
 \textbf{Elektronik}: Arduino ile uyumlu\\
 \textbf{Yazýlým}: Arduino'nun yaný sýra, Açýk Kaynak grafik IDE miniBloq ile uyumludur\\
 \textbf{Mekanik}: ABS, akrilik ve fablabuyumlu olarak kolayca özelleþtirilebilir diðer malzemelere dayalý\\
 \textbf{Belgeler}: LibreOffice gibi Açýk Kaynak biçimlerinde yayýmlanýr\\
 
-Multiplo robotlar Kaliforniya'da Teknoloji Müzesi'nde sergileniyor.  Konsepti baþlangýçta Julian da Silva ve bazý iþbirlikçileri tarafýndan tasarlanmýþtýr, daha sonra þirket tarafýndan benimsenmiþtir. Rodolfo Cossovich tarafýndan bir robot kitine dönüþtürüldükten sonra nihayet kitlesel fonlama kampanyasýyla kitlesel fonlama yapýldý.\cite{k:1}
+
+Multiplo robotlar Kaliforniya'da Teknoloji Müzesi'nde sergileniyor.  Konsepti baþlangýçta Julian da Silva ve bazý iþbirlikçileri tarafýndan tasarlanmýþtýr, daha sonra þirket tarafýndan benimsenmiþtir. Rodolfo Cossovich tarafýndan bir robot kitine dönüþtürüldükten sonra nihayet kitlesel fonlama kampanyasýyla kitlesel fonlama yapýldý.\cite{multiplo}
+
+
 \subsection{miniBloq}
 MiniBloq, Arduino, Multiplo, fiziksel bilgi iþlem cihazlarý ve robotlar için grafiksel bir programlama ortamýdýr. 
 
-Temel hedeflerinden biri, oðrenciler ve yeni baþlayanlara fiziksel bilgi iþlem ve robotik platformlarý daha da yakýnlaþtýrmaktýr.\cite{k:2}
+Temel hedeflerinden biri, oðrenciler ve yeni baþlayanlara fiziksel bilgi iþlem ve robotik platformlarý daha da yakýnlaþtýrmaktýr.\cite{miniBloq}
 
+miniBloq özellikleri Tablo \ref{table:1}'de verilmiþtir.
 \begin{table}[h!]
 \centering
 \begin{tabular}{|c| m{20em}|} 
@@ -44,6 +54,8 @@ Modüler ve geniþletilebilir & Kullanýcý kolayca kendi yeni bloklarýný oluþturabi
 \caption{miniBloq özellikleri}
 \label{table:1}
 \end{table}
+\newpage
+miniBloq ilk açtýðýnýzda Þekil \ref{fig:minibloq}'de gibi karþýnýzda bir ekran çýkacaktýr.
 \begin{figure}[h!]
   \includegraphics[scale=0.4]{minibloq.png}
   \caption{miniBloq giriþ ekraný}

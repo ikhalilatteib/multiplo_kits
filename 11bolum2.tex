@@ -1,13 +1,34 @@
 \section{PROJENÝN TASARIMI VE ÇALIÞMA YAPISI}
-Bu bölümde projenin tasarýmý ve çalý¸sma yapýsýndan bahsedilmektedir
+Bu bölümde projenin tasarýmý ve çalýþma yapýsýndan bahsedilmektedir
 \subsection{Projenin Tasarýmý}
-Bu projede iki arka tekerleði ve bir önde birer tekerleði olan bir Multiplo robotu kullanacaðýz. Bu robotun montajý hakkýnda daha fazla bilgi için ayri bir doküman hazýrladýk, dokümana görmek için \href{https://drive.google.com/file/d/11VlHap81XU32XOVKXIDdKzzte7GgiFI3/view?usp=sharing}{buraya tiklayýn}
+Bu projede Þekil \ref{fig:arac_kiti}'deki görüldüðü gibi iki arka tekerleði ve bir önde tekerleði olan bir Multiplo robotu kullanacaðýz. Bu robotun montajý hakkýnda daha fazla bilgi için hazýr bir döküman bulunmaktadýr, dokümana görmek için \href{https://drive.google.com/file/d/11VlHap81XU32XOVKXIDdKzzte7GgiFI3/view?usp=sharing}{buraya tiklayýn}
 
-\begin{figure}[h!]
+\begin{figure}[h]
 \centering
-  \includegraphics[scale=0.5]{robot.png}
+  \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{arac_2}
+         \caption{}
+         \label{fig:arac_2}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{arac_1}
+         \caption{}
+         \label{fig:arac_1}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{arac_3}
+         \caption{}
+         \label{fig:arac_3}
+     \end{subfigure}
+     
   \caption{Projede kullandýðýmýz robot}
-  \label{fig:robot}
+  \label{fig:arac_kiti}
+  
 \end{figure}
 
 Giriþte size söylediðimiz gibi, bu proje iki uygulamayý gerçekleþtirmeye amaçlýdýr
@@ -18,20 +39,22 @@ Giriþte size söylediðimiz gibi, bu proje iki uygulamayý gerçekleþtirmeye amaçlýd
 
 olup projenin çalýþma yapýsý kýsmýnda bu uygulamalar ile ilgili detaylý bilgiler verilmiþtir.
 
+\newpage
 \subsection{Projenin Çalýþma Yapýsý}
 Bu bölümde projenin çalýþma yapýsýndan bahsedilmektedir.
 \subsubsection{Kumanda ile hareket ettirme}
-Programlama aþamasýna geçmeden önce adýmlarý \label{fig:kumanda} bir akýþ diyagramý ile açýklamaya çalýþýyoruz.
-\begin{figure}[h!]
+Programlama aþamasýna geçmeden önce Þekil \ref{fig:kumanda_aleti}'de görülen akýþ diyagramý ile açýklamaya çalýþýyoruz.
+\begin{figure}[h]
 \centering
   \includegraphics[scale=0.4]{kumanda.png}
   \caption{Kumanda ile hareket ettirme akýþ diyagramý}
-  \label{fig:kumanda}
+  
+  \label{fig:kumanda_aleti}
 \end{figure}
 
 Akýþ diyagramýmýzý çizdikten sonra programlama aþamasýna geçiyoruz.
 
-Önce miniBloq olan programýmýzý açýyoruz, ardýndan kýrmýzý renk ile çizdiðimiz sembolü seçiyoruz, bu sembol bir deðiþkeni ifade ediyor. Deðiþkenimize isim olarak "speed" atadýk. Þimdi daire içine aldýðýmýz kýsma týklýyoruz, kýrmýzý ile çizdiðimiz deðeri belirten \# sembolünü seçmemizi saðlayan bir pencere açýlýyor. "speed" deðiþkenimize 50 deðeri veriyoruz ve deðer olarak sýfýra "code" adlý baþka bir deðiþken ekliyoruz yani 2 deðiþkenimiz var.\\
+Önce miniBloq olan programýmýzý açýyoruz, ardýndan Þekil \ref{fig:val_1}'teki kýrmýzý renk ile çizdiðimiz sembolü seçiyoruz, bu sembol bir deðiþkeni ifade ediyor. Deðiþkenimize isim olarak "speed" atadýk. Þekil \ref{fig:val_2} resimdeki gibi daire içine aldýðýmýz kýsma týklýyoruz, kýrmýzý ile çizdiðimiz deðeri belirten \# sembolünü seçmemizi saðlayan bir pencere açýlýyor. "speed" deðiþkenimize 50 deðeri veriyoruz ve deðer olarak sýfýra "code" adlý baþka bir deðiþken ekliyoruz yani 2 deðiþkenimiz var.\\
 speed=50
 code = 0
 \begin{figure}[h!]
@@ -60,7 +83,7 @@ code = 0
         \label{fig:miniBloq degisken tanimla}
 \end{figure}
 
-Deðiþkenlerimizi aldýktan sonra bir döngü ihtiyacýmýz var. Programý hep çalýþýr durumda býrakmak istiyoruz. Þimdi bunu while döngüsüyle nasýl yapabileceðimizi açýklýyoruz.
+Deðiþkenlerimizi aldýktan sonra bir döngü ihtiyacýmýz var. Programý hep çalýþýr durumda býrakmak istiyoruz. Þekil \ref{fig:while_dongusu}'te görüldüðü gibi bunu while döngüsüyle nasýl yapabileceðimizi açýklýyoruz.
 \begin{figure}[h!]
      \centering
      \begin{subfigure}[b]{0.23\textwidth}
@@ -94,7 +117,7 @@ Deðiþkenlerimizi aldýktan sonra bir döngü ihtiyacýmýz var. Programý hep çalýþýr 
         \label{fig:while_dongusu}
 \end{figure}
 \newpage
-Daha sonra uzaktan kumandadan gelen deðere ihtiyacýmýz var, bunu yapabilmek için kumandadan gelen deðeri code deðiþkenimize atamamýz gerekiyor.
+Daha sonra uzaktan kumandadan gelen deðere ihtiyacýmýz var, bunu yapabilmek için kumandadan gelen deðeri code deðiþkenimize atamamýz gerekiyor. Þekil \ref{fig:degisken_val}'daki görselleri inceleyerek yapabilirsiniz.
 \begin{figure}[h!]
      \centering
      \begin{subfigure}[b]{0.3\textwidth}
@@ -138,12 +161,12 @@ Daha sonra uzaktan kumandadan gelen deðere ihtiyacýmýz var, bunu yapabilmek için
          \caption{}
          \label{fig:ata_6}
      \end{subfigure}
-        \caption{Deðiþkeni deðer atma iþlemler}
+        \caption{Deðiþkene deðer atma iþlemler}
         \label{fig:degisken_val}
 \end{figure}
 \newpage
-Uzaktan kumandadan gelen deðeri alabildik. Þimdi gelen deðerleri kontrol edebilmek için koþullarý ayarlayacaðýz ve buna göre robotumuzun hareketlerini yöneteceðiz.\\
-ilk koþul gelen sayýnýn 2 olup olmadýðýný kontrol etmektir.
+Uzaktan kumandadan gelen deðeri alabildik. Þimdi gelen deðerleri kontrol edebilmek için koþullarý ayarlayacaðýz ve buna göre robotumuzun hareketlerini yöneteceðiz.
+Þekil \ref{fig:kumanda_value_2}'de görüldüðü gibi ilk koþul gelen sayýnýn 2 olup olmadýðýný kontrol etmektir.
 \begin{figure}[h!]
      \centering
      \begin{subfigure}[b]{0.23\textwidth}
@@ -177,7 +200,7 @@ ilk koþul gelen sayýnýn 2 olup olmadýðýný kontrol etmektir.
         \label{fig:kumanda_value_2}
 \end{figure}
 
-Gelen sayýnýn deðerinin 2 olduðunu varsayalým, o zaman robotu 50 hýzla ilerleteceðiz\\
+Þekil \ref{fig:devant}'da gelen sayýnýn deðerinin 2 olduðunu varsayalým, o zaman robotu 50 hýzla ilerleteceðiz\\
 Bunu yapmak için motor0'a 50 ve motor1'e -50 atadýk
 
 \begin{figure}[h!]
@@ -220,7 +243,7 @@ Bunu yapmak için motor0'a 50 ve motor1'e -50 atadýk
         \label{fig:devant}
 \end{figure}
 \newpage
-Kumandadan gelen deðer 8 ise motor0 -50 ve motor1 50 atayarak robotumuz geriye gidiyor
+Kumandadan gelen deðer 8 ise motor0 -50 ve motor1 50 atayarak robotumuz geriye gidiyor Þekil \ref{fig:code_8}'da kodu gösterilmiþtir.
 \begin{figure}[h!]
 \centering
   \includegraphics[width=0.6\textwidth]{code_8.png}
@@ -229,7 +252,7 @@ Kumandadan gelen deðer 8 ise motor0 -50 ve motor1 50 atayarak robotumuz geriye g
 \end{figure}
 
 Robotun saða dönmesini saðlamak için her iki motora da 50 hýz atamamýz yeterlidir.\\
-bu iþlemi gerçekleþtirmek için uzaktan kumandaya 6 deðerini veriyoruz
+bu iþlemi gerçekleþtirmek için Þekil \ref{fig:code_6}'de uzaktan kumandaya 6 deðerini veriyoruz
 \begin{figure}[h!]
 \centering
   \includegraphics[width=0.7\textwidth]{code_6.png}
@@ -238,7 +261,7 @@ bu iþlemi gerçekleþtirmek için uzaktan kumandaya 6 deðerini veriyoruz
 \end{figure}
 
 Tabii saða dönebiliyorsa sola da dönebilir, peki bunu nasýl yapacaðýz? \\
-Basit bir þekilde her iki motora da -50 atayarak gerçekleþtirebiliriz.\\
+Þekil \ref{fig:code_4}'de basit bir þekilde her iki motora da -50 atayarak gerçekleþtirebiliriz.\\
 bu iþlem için 4 deðerini verebiliriz
 \begin{figure}[h!]
 \centering
@@ -247,7 +270,7 @@ bu iþlem için 4 deðerini verebiliriz
   \label{fig:code_4}
 \end{figure}
 
-Robotu istediðimiz yöne yönlendirebildik, þimdi 5 tuþuna bastýðýmýzda durmasýný istiyoruz.
+Robotu istediðimiz yöne yönlendirebildik, þimdi 5 tuþuna bastýðýmýzda durmasýný istiyoruz kodu Þekil \ref{fig:code_5}'te gösterilmiþtir.
 \begin{figure}[h!]
 \centering
   \includegraphics[width=0.6\textwidth]{code_5.png}
@@ -256,7 +279,7 @@ Robotu istediðimiz yöne yönlendirebildik, þimdi 5 tuþuna bastýðýmýzda durmasýný 
 \end{figure}
 
 \newpage
-Ýlk uygulamanýz bitti, size uygulama sýrasýnda kullandýðýmýz malzemelerin bir tablosunu yapacaðýz.
+Ýlk uygulamanýz bitti, size uygulama sýrasýnda kullandýðýmýz malzemelerin Þekil \ref{fig:mal_1}'te gösterilen malzameler kullandýk.
 \begin{figure}[h!]
      \centering
      \begin{subfigure}[b]{0.2\textwidth}
@@ -287,6 +310,7 @@ Robotu istediðimiz yöne yönlendirebildik, þimdi 5 tuþuna bastýðýmýzda durmasýný 
          \label{fig:sensor}
      \end{subfigure}
       \caption{Ýlk uygulamada kullandýðýmýz malzemeler}
+      \label{fig:mal_1}
       
 \end{figure}
 
@@ -295,7 +319,7 @@ Bu projedeki ikinci uygulamamýz olan robot bir engelle karþýlaþtýðýnda kendi ken
 Mesafeyi tespit etmek için robot, HC-SR04 ultrasonik sensörü kullanýr. Böylece bu sensör her 10 mikrosaniyede bir ultrasonik ses dalgalarý gönderir ve eðer önünde bir engel varsa sensör yankýyý alýr.
 
 \textbf{Kablolama}\\
-Burada size sensörü robota nasýl baðlayabileceðinizi gösteriyoruz
+Þekil \ref{fig:cablage}'te görüldüðü gibi size sensörü robota nasýl baðlayabileceðinizi gösteriyoruz
 \begin{figure}[h!]
 \centering
   \includegraphics[width=0.9\textwidth]{cablage.jpg}
@@ -311,15 +335,42 @@ Burada size sensörü robota nasýl baðlayabileceðinizi gösteriyoruz
   \label{fig:engel}
 \end{figure}
 
-Akýþ diyagramý da gördüðümüz gibi, programý sürekli çalýþýr durumda tutmak için while döngüsü ile baþlattýk. program otomatik olarak baþladýðýnda robot 50 hýz ile ileri doðru hareket eder ve ayný zamanda sensör sayesinde herhangi bir engel ile arasýndaki mesafeyi kontrol eder, engele olan mesafe 10'dan az ise robot durur ve sonra her iki saniyede bir engel olup olmadýðýný kontrol eder
+Þekil \ref{fig:engel}'teki akýþ diyagramýnda görüldüðü gibi, programý sürekli çalýþýr durumda tutmak için while döngüsü ile baþlattýk. program otomatik olarak baþladýðýnda robot 50 hýz ile ileri doðru hareket eder ve ayný zamanda sensör sayesinde herhangi bir engel ile arasýndaki mesafeyi kontrol eder, engele olan mesafe 10'dan az ise robot durur ve sonra her iki saniyede bir engel olup olmadýðýný kontrol eder
 
 \newpage
 \textbf{Programlama}\\
-Kod kismi bakacak olursak
+Engel algýlayan robotun kodu Þekil \ref{fig:engel_kod}'de gösterilmiþtir.
 \begin{figure}[h!]
 \centering
   \includegraphics[width=0.7\textwidth]{engel_kod.png}
   \caption{Engel algýlayan robot kodu}
   \label{fig:engel_kod}
+\end{figure}
+\newpage
+Ýkinci uygulamýmýz olan engel algýlayan robotun kullanýlan malzemeleri Þekil \ref{fig:engel_mal}'de gösterilmiþtir.
+\begin{figure}[h!]
+     \centering
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{robot}
+         \caption*{ Robot}
+         \label{fig:robot}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{jumper}
+         \caption*{ 4 Adet Erkek-Diþi Jumper}
+         \label{fig:kumanda}
+     \end{subfigure}
+     \hfill
+     \begin{subfigure}[b]{0.3\textwidth}
+         \centering
+         \includegraphics[width=\textwidth]{sens}
+         \caption*{ Kablo}
+         \label{fig:cable}
+     \end{subfigure}
+      \caption{Ýkinci uygulamada kullandýðýmýz malzemeler}
+      \label{fig:engel_mal}
 \end{figure}
 

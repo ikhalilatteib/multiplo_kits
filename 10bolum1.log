@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.26)  1 JAN 2022 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.26)  3 FEB 2022 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,7 +8,7 @@ LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22>
 ! Undefined control sequence.
 l.1 \section
-            {KULLANILAN YAZILIMLAR VE KÜTÜPHANELER}
+            {KULLANILAN ROBOT VE PROGRAM}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -23,7 +23,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.1 \section{K
-              ULLANILAN YAZILIMLAR VE KÜTÜPHANELER}
+              ULLANILAN ROBOT VE PROGRAM}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -37,56 +37,20 @@ Missing character: There is no I in font nullfont!
 Missing character: There is no L in font nullfont!
 Missing character: There is no A in font nullfont!
 Missing character: There is no N in font nullfont!
-Missing character: There is no Y in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no Z in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no I in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no A in font nullfont!
 Missing character: There is no R in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no T in font nullfont!
 Missing character: There is no V in font nullfont!
 Missing character: There is no E in font nullfont!
-Missing character: There is no K in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte sequence (ÜT).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \section{KULLANILAN YAZILIMLAR VE KÜT
-                                         ÜPHANELER}
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Invalid UTF-8 byte sequence (ÜP).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \section{KULLANILAN YAZILIMLAR VE KÜTÜP
-                                           HANELER}
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no H in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no E in font nullfont!
+Missing character: There is no P in font nullfont!
 Missing character: There is no R in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no M in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no b in font nullfont!
@@ -98,7 +62,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.2 Bu bö
-         lümde proje geliþtirme aþamasýnda kullanýlan yazýlýmlar ve kütüphan...
+         lümde proje geliþtirme aþamasýnda kullanýlan robot ve ve program ba...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -115,7 +79,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.2 Bu bölü
-           mde proje geliþtirme aþamasýnda kullanýlan yazýlýmlar ve kütüphan...
+           mde proje geliþtirme aþamasýnda kullanýlan robot ve ve program ba...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -143,7 +107,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.2 Bu bölümde proje geliþ
-                          tirme aþamasýnda kullanýlan yazýlýmlar ve kütüphan...
+                          tirme aþamasýnda kullanýlan robot ve ve program ba...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -165,7 +129,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.2 Bu bölümde proje geliþtirme aþ
-                                  amasýnda kullanýlan yazýlýmlar ve kütüphan...
+                                  amasýnda kullanýlan robot ve ve program ba...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -185,7 +149,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.2 Bu bölümde proje geliþtirme aþamasý
-                                       nda kullanýlan yazýlýmlar ve kütüphan...
+                                       nda kullanýlan robot ve ve program ba...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -210,7 +174,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.2 Bu bölümde proje geliþtirme aþamasýnda kullaný
-                                                  lan yazýlýmlar ve kütüphan...
+                                                  lan robot ve ve program ba...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -221,92 +185,22 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 Missing character: There is no l in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no n in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no z in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 ...proje geliþtirme aþamasýnda kullanýlan yazý
-                                                  lýmlar ve kütüphanelerden ...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no l in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 ...oje geliþtirme aþamasýnda kullanýlan yazýlý
-                                                  mlar ve kütüphanelerden ba...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no m in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
 Missing character: There is no v in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no k in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FC.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 ...irme aþamasýnda kullanýlan yazýlýmlar ve kü
-                                                  tüphanelerden bahsedilmiþtir.
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no t in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FC.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 ...me aþamasýnda kullanýlan yazýlýmlar ve kütü
-                                                  phanelerden bahsedilmiþtir.
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no p in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
 Missing character: There is no b in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -324,7 +218,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2 ...n yazýlýmlar ve kütüphanelerden bahsedilmiþ
+l.2 ... kullanýlan robot ve ve program bahsedilmiþ
                                                   tir.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1158,15 +1052,14 @@ Overfull \hbox (20.0pt too wide) in paragraph at lines 6--7
  []
 
 
-! LaTeX Error: Invalid UTF-8 byte sequence (Ça).
+! LaTeX Error: Invalid UTF-8 byte sequence (Þe).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Ça
-      rpým dört bileþenin toplamýdýr. Her biri ayný öneme sahiptir, kullanýc...
-
+l.8 Þe
+      kil \ref{fig:multi_robot}'de Mutliplo araç kiti örneðidir.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1180,32 +1073,59 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Çar
-       pým dört bileþenin toplamýdýr. Her biri ayný öneme sahiptir, kullanýc...
-
+l.8 Þek
+       il \ref{fig:multi_robot}'de Mutliplo araç kiti örneðidir.
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no r in font nullfont!
-Missing character: There is no p in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+! Undefined control sequence.
+<write> ...nce `fig:multi_robot' on page \thepage 
+                                                  \space undefined\on@line .
+l.8 Þekil \ref{fig:multi_robot}
+                               'de Mutliplo araç kiti örneðidir.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-! LaTeX Error: Invalid UTF-8 byte "FD.
+
+LaTeX Warning: Reference `fig:multi_robot' on page  undefined on input line 8.
+
+Missing character: There is no ' in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (çki).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Çarpý
-         m dört bileþenin toplamýdýr. Her biri ayný öneme sahiptir, kullanýc...
-
+l.8 ...l \ref{fig:multi_robot}'de Mutliplo araç ki
+                                                  ti örneðidir.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
 in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
-Missing character: There is no m in font nullfont!
-Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
 
 ! LaTeX Error: Invalid UTF-8 byte "F6.
 
@@ -1213,9 +1133,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Çarpým dö
-             rt bileþenin toplamýdýr. Her biri ayný öneme sahiptir, kullanýc...
-
+l.8 ...ef{fig:multi_robot}'de Mutliplo araç kiti ö
+                                                  rneðidir.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1223,64 +1142,17 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no l in font nullfont!
+Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 
-! LaTeX Error: Invalid UTF-8 byte "FE.
+! LaTeX Error: Invalid UTF-8 byte sequence (ðidi).
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 Çarpým dört bileþ
-                     enin toplamýdýr. Her biri ayný öneme sahiptir, kullanýc...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 Çarpým dört bileþenin toplamý
-                                 dýr. Her biri ayný öneme sahiptir, kullanýc...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no d in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 Çarpým dört bileþenin toplamýdý
-                                   r. Her biri ayný öneme sahiptir, kullanýc...
-
+l.8 ...multi_robot}'de Mutliplo araç kiti örneðidi
+                                                  r.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -1289,226 +1161,112 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no n in font nullfont!
 
-! LaTeX Error: Invalid UTF-8 byte "FD.
+! LaTeX Error: Environment figure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ým dört bileþenin toplamýdýr. Her biri ayný
-                                                   öneme sahiptir, kullanýcý...
+l.9 \begin{figure}
+                  [h!]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Invalid UTF-8 byte "F6.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 ... dört bileþenin toplamýdýr. Her biri ayný ö
-                                                  neme sahiptir, kullanýcýný...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
+Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
+Missing character: There is no ! in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.11   \includegraphics
+                       [scale=0.4]{robot.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 ...ýdýr. Her biri ayný öneme sahiptir, kullaný
-                                                  cýnýn bakýþ açýsýndan orta...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no c in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 ...ýr. Her biri ayný öneme sahiptir, kullanýcý
-                                                  nýn bakýþ açýsýndan ortak ...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no n in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 .... Her biri ayný öneme sahiptir, kullanýcýný
-                                                  n bakýþ açýsýndan ortak bi...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no b in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no k in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 ...biri ayný öneme sahiptir, kullanýcýnýn baký
-                                                  þ açýsýndan ortak bir fels...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Invalid UTF-8 byte "FE.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 ...iri ayný öneme sahiptir, kullanýcýnýn bakýþ
-                                                   açýsýndan ortak bir felse...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no a in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte sequence (çýs).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 ...yný öneme sahiptir, kullanýcýnýn bakýþ açýs
-                                                  ýndan ortak bir felsefe, e...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.8 ...ný öneme sahiptir, kullanýcýnýn bakýþ açýsý
-                                                  ndan ortak bir felsefe, es...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no n in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
-Missing character: There is no s in font nullfont!
 Missing character: There is no e in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 8--9
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12   \caption
+               {Multiplo araç kiti}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (çki).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12   \caption{Multiplo araç ki
+                                ti}
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--15
+[]
+ []
+
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 8--15
 []
  []
 
@@ -1519,7 +1277,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.10 \textbf{Elektronik}
+l.16 \textbf{Elektronik}
                         : Arduino ile uyumlu\\
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1548,7 +1306,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 \textbf{Yazýlým}
+l.17 \textbf{Yazýlým}
                      : Arduino'nun yaný sýra, Açýk Kaynak grafik IDE miniBlo...
 
 The document does not appear to be in UTF-8 encoding.
@@ -1564,7 +1322,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 \textbf{Yazýlým}
+l.17 \textbf{Yazýlým}
                      : Arduino'nun yaný sýra, Açýk Kaynak grafik IDE miniBlo...
 
 The document does not appear to be in UTF-8 encoding.
@@ -1595,7 +1353,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 \textbf{Yazýlým}: Arduino'nun yaný
+l.17 \textbf{Yazýlým}: Arduino'nun yaný
                                         sýra, Açýk Kaynak grafik IDE miniBlo...
 
 The document does not appear to be in UTF-8 encoding.
@@ -1612,7 +1370,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 \textbf{Yazýlým}: Arduino'nun yaný sý
+l.17 \textbf{Yazýlým}: Arduino'nun yaný sý
                                           ra, Açýk Kaynak grafik IDE miniBlo...
 
 The document does not appear to be in UTF-8 encoding.
@@ -1632,7 +1390,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.11 \textbf{Yazýlým}: Arduino'nun yaný sýra, Açýk
+l.17 \textbf{Yazýlým}: Arduino'nun yaný sýra, Açýk
                                                    Kaynak grafik IDE miniBlo...
 
 The document does not appear to be in UTF-8 encoding.
@@ -1722,7 +1480,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 ..., akrilik ve fablabuyumlu olarak kolayca ö
+l.18 ..., akrilik ve fablabuyumlu olarak kolayca ö
                                                   zelleþtirilebilir diðer ma...
 
 The document does not appear to be in UTF-8 encoding.
@@ -1743,7 +1501,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 ...lik ve fablabuyumlu olarak kolayca özelleþ
+l.18 ...lik ve fablabuyumlu olarak kolayca özelleþ
                                                   tirilebilir diðer malzemel...
 
 The document does not appear to be in UTF-8 encoding.
@@ -1772,7 +1530,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 ... olarak kolayca özelleþtirilebilir diðer m
+l.18 ... olarak kolayca özelleþtirilebilir diðer m
                                                   alzemelere dayalý\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1802,7 +1560,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.12 ...zelleþtirilebilir diðer malzemelere dayalý
+l.18 ...zelleþtirilebilir diðer malzemelere dayalý
                                                   \\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1834,7 +1592,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 \textbf{Belgeler}: LibreOffice gibi Açýk
+l.19 \textbf{Belgeler}: LibreOffice gibi Açýk
                                               Kaynak biçimlerinde yayýmlanýr\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1857,7 +1615,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 ...geler}: LibreOffice gibi Açýk Kaynak biçim
+l.19 ...geler}: LibreOffice gibi Açýk Kaynak biçim
                                                   lerinde yayýmlanýr\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1882,7 +1640,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 ...eOffice gibi Açýk Kaynak biçimlerinde yayý
+l.19 ...eOffice gibi Açýk Kaynak biçimlerinde yayý
                                                   mlanýr\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1901,7 +1659,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.13 ...ce gibi Açýk Kaynak biçimlerinde yayýmlaný
+l.19 ...ce gibi Açýk Kaynak biçimlerinde yayýmlaný
                                                   r\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -1911,22 +1669,22 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 Missing character: There is no r in font nullfont!
 
-Overfull \hbox (72.70113pt too wide) in paragraph at lines 10--14
+Overfull \hbox (72.70113pt too wide) in paragraph at lines 16--20
 []\OT1/cmr/bx/n/10 Elektronik
  []
 
 
-Overfull \hbox (31.21509pt too wide) in paragraph at lines 10--14
+Overfull \hbox (31.21509pt too wide) in paragraph at lines 16--20
 \OT1/cmr/bx/n/10 Yazlm
  []
 
 
-Overfull \hbox (42.86087pt too wide) in paragraph at lines 10--14
+Overfull \hbox (42.86087pt too wide) in paragraph at lines 16--20
 \OT1/cmr/bx/n/10 Mekanik
  []
 
 
-Overfull \hbox (40.86787pt too wide) in paragraph at lines 10--14
+Overfull \hbox (40.86787pt too wide) in paragraph at lines 16--20
 \OT1/cmr/bx/n/10 Belgeler
  []
 
@@ -1937,7 +1695,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 M
+l.22 M
       ultiplo robotlar Kaliforniya'da Teknoloji Müzesi'nde sergileniyor.  Ko...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1990,7 +1748,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 Multiplo robotlar Kaliforniya'da Teknoloji Mü
+l.22 Multiplo robotlar Kaliforniya'da Teknoloji Mü
                                                   zesi'nde sergileniyor.  Ko...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2037,7 +1795,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...oji Müzesi'nde sergileniyor.  Konsepti baþ
+l.22 ...oji Müzesi'nde sergileniyor.  Konsepti baþ
                                                   langýçta Julian da Silva v...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2057,7 +1815,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...üzesi'nde sergileniyor.  Konsepti baþlangý
+l.22 ...üzesi'nde sergileniyor.  Konsepti baþlangý
                                                   çta Julian da Silva ve baz...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2073,7 +1831,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...si'nde sergileniyor.  Konsepti baþlangýçta
+l.22 ...si'nde sergileniyor.  Konsepti baþlangýçta
                                                    Julian da Silva ve bazý i...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2107,7 +1865,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...nsepti baþlangýçta Julian da Silva ve bazý
+l.22 ...nsepti baþlangýçta Julian da Silva ve bazý
                                                    iþbirlikçileri tarafýndan...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2124,7 +1882,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...pti baþlangýçta Julian da Silva ve bazý iþ
+l.22 ...pti baþlangýçta Julian da Silva ve bazý iþ
                                                   birlikçileri tarafýndan ta...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2146,7 +1904,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...ngýçta Julian da Silva ve bazý iþbirlikçil
+l.22 ...ngýçta Julian da Silva ve bazý iþbirlikçil
                                                   eri tarafýndan tasarlanmýþ...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2170,7 +1928,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...ian da Silva ve bazý iþbirlikçileri tarafý
+l.22 ...ian da Silva ve bazý iþbirlikçileri tarafý
                                                   ndan tasarlanmýþtýr, daha ...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2199,7 +1957,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ... bazý iþbirlikçileri tarafýndan tasarlanmý
+l.22 ... bazý iþbirlikçileri tarafýndan tasarlanmý
                                                   þtýr, daha sonra þirket ta...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2215,7 +1973,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...bazý iþbirlikçileri tarafýndan tasarlanmýþ
+l.22 ...bazý iþbirlikçileri tarafýndan tasarlanmýþ
                                                   týr, daha sonra þirket tar...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2232,7 +1990,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...zý iþbirlikçileri tarafýndan tasarlanmýþtý
+l.22 ...zý iþbirlikçileri tarafýndan tasarlanmýþtý
                                                   r, daha sonra þirket taraf...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2259,7 +2017,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...ri tarafýndan tasarlanmýþtýr, daha sonra þ
+l.22 ...ri tarafýndan tasarlanmýþtýr, daha sonra þ
                                                   irket tarafýndan benimsenm...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2285,7 +2043,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...n tasarlanmýþtýr, daha sonra þirket tarafý
+l.22 ...n tasarlanmýþtýr, daha sonra þirket tarafý
                                                   ndan benimsenmiþtir. Rodol...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2315,7 +2073,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ..., daha sonra þirket tarafýndan benimsenmiþ
+l.22 ..., daha sonra þirket tarafýndan benimsenmiþ
                                                   tir. Rodolfo Cossovich tar...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2356,7 +2114,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...n benimsenmiþtir. Rodolfo Cossovich tarafý
+l.22 ...n benimsenmiþtir. Rodolfo Cossovich tarafý
                                                   ndan bir robot kitine dönü...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2391,7 +2149,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...o Cossovich tarafýndan bir robot kitine dö
+l.22 ...o Cossovich tarafýndan bir robot kitine dö
                                                   nüþtürüldükten sonra nihay...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2408,7 +2166,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...Cossovich tarafýndan bir robot kitine dönü
+l.22 ...Cossovich tarafýndan bir robot kitine dönü
                                                   þtürüldükten sonra nihayet...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2424,7 +2182,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...ossovich tarafýndan bir robot kitine dönüþ
+l.22 ...ossovich tarafýndan bir robot kitine dönüþ
                                                   türüldükten sonra nihayet ...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2441,7 +2199,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...sovich tarafýndan bir robot kitine dönüþtü
+l.22 ...sovich tarafýndan bir robot kitine dönüþtü
                                                   rüldükten sonra nihayet ki...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2458,7 +2216,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...vich tarafýndan bir robot kitine dönüþtürü
+l.22 ...vich tarafýndan bir robot kitine dönüþtürü
                                                   ldükten sonra nihayet kitl...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2476,7 +2234,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...h tarafýndan bir robot kitine dönüþtürüldü
+l.22 ...h tarafýndan bir robot kitine dönüþtürüldü
                                                   kten sonra nihayet kitlese...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2532,8 +2290,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ... sonra nihayet kitlesel fonlama kampanyasý
-                                                  yla kitlesel fonlama yapýldý.
+l.22 ... sonra nihayet kitlesel fonlama kampanyasý
+                                                  yla kitlesel fonlama yapýl...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -2569,8 +2327,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...onlama kampanyasýyla kitlesel fonlama yapý
-                                                  ldý.
+l.22 ...onlama kampanyasýyla kitlesel fonlama yapý
+                                                  ldý.\cite{multiplo}
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -2586,8 +2344,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 ...ama kampanyasýyla kitlesel fonlama yapýldý
-                                                  .
+l.22 ...ama kampanyasýyla kitlesel fonlama yapýldý
+                                                  .\cite{multiplo}
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -2595,14 +2353,53 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 Missing character: There is no . in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{multiplo}
 ! Undefined control sequence.
-l.16 \subsection
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.22 ...a kitlesel fonlama yapýldý.\cite{multiplo}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation `multiplo' on page  undefined on input line 22.
+
+Missing character: There is no ] in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 22--23
+[]
+ []
+
+
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 22--23
+[] 
+ []
+
+! Undefined control sequence.
+l.25 \subsection
                 {miniBloq}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \subsection{m
+                  iniBloq}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no m in font nullfont!
 Missing character: There is no i in font nullfont!
@@ -2659,7 +2456,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 MiniBloq, Arduino, Multiplo,fiziksel bilgi iþ
+l.26 ...Bloq, Arduino, Multiplo, fiziksel bilgi iþ
                                                   lem cihazlarý ve robotlar ...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2686,7 +2483,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 ...o, Multiplo,fiziksel bilgi iþlem cihazlarý
+l.26 ..., Multiplo, fiziksel bilgi iþlem cihazlarý
                                                    ve robotlar için grafikse...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2713,7 +2510,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 ...sel bilgi iþlem cihazlarý ve robotlar için
+l.26 ...sel bilgi iþlem cihazlarý ve robotlar için
                                                    grafiksel bir programlama...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2757,7 +2554,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 ...tlar için grafiksel bir programlama ortamý
+l.26 ...tlar için grafiksel bir programlama ortamý
                                                   dýr.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -2773,7 +2570,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17 ...ar için grafiksel bir programlama ortamýdý
+l.26 ...ar için grafiksel bir programlama ortamýdý
                                                   r.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -2784,7 +2581,7 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 15--18
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--27
 []
  []
 
@@ -2795,7 +2592,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 T
+l.28 T
       emel hedeflerinden biri, oðrenciler ve yeni baþlayanlara fiziksel bilg...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -2832,7 +2629,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 Temel hedeflerinden biri, oðren
+l.28 Temel hedeflerinden biri, oðren
                                     ciler ve yeni baþlayanlara fiziksel bilg...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2861,7 +2658,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 ...hedeflerinden biri, oðrenciler ve yeni baþ
+l.28 ...hedeflerinden biri, oðrenciler ve yeni baþ
                                                   layanlara fiziksel bilgi i...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2900,7 +2697,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 ...ler ve yeni baþlayanlara fiziksel bilgi iþ
+l.28 ...ler ve yeni baþlayanlara fiziksel bilgi iþ
                                                   lem ve robotik platformlar...
 
 The document does not appear to be in UTF-8 encoding.
@@ -2939,8 +2736,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 ...ziksel bilgi iþlem ve robotik platformlarý
-                                                   daha da yakýnlaþtýrmaktýr.
+l.28 ...ziksel bilgi iþlem ve robotik platformlarý
+                                                   daha da yakýnlaþtýrmaktýr...
+
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -2963,8 +2761,9 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 ...iþlem ve robotik platformlarý daha da yaký
-                                                  nlaþtýrmaktýr.
+l.28 ...iþlem ve robotik platformlarý daha da yaký
+                                                  nlaþtýrmaktýr.\cite{miniBloq}
+
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -2981,8 +2780,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 ...m ve robotik platformlarý daha da yakýnlaþ
-                                                  týrmaktýr.
+l.28 ...m ve robotik platformlarý daha da yakýnlaþ
+                                                  týrmaktýr.\cite{miniBloq}
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -2997,8 +2796,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 ...ve robotik platformlarý daha da yakýnlaþtý
-                                                  rmaktýr.
+l.28 ...ve robotik platformlarý daha da yakýnlaþtý
+                                                  rmaktýr.\cite{miniBloq}
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -3017,8 +2816,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 ...otik platformlarý daha da yakýnlaþtýrmaktý
-                                                  r.
+l.28 ...otik platformlarý daha da yakýnlaþtýrmaktý
+                                                  r.\cite{miniBloq}
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -3027,23 +2826,32 @@ Alternatively, save the file in UTF-8 using your editor or another tool
 
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
+Missing character: There is no [ in font nullfont!
+\citation{miniBloq}
+! Undefined control sequence.
+<write> ...: Citation `\@citeb ' on page \thepage 
+                                                  \space undefined\on@line .
+l.28 ... daha da yakýnlaþtýrmaktýr.\cite{miniBloq}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 19--20
+
+LaTeX Warning: Citation `miniBloq' on page  undefined on input line 28.
+
+Missing character: There is no ] in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 28--29
 []
  []
 
 
-! LaTeX Error: Environment table undefined.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.21 \begin{table}
-                  [h!]
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 28--29
+[] 
+ []
 
 
 ! LaTeX Error: Missing \begin{document}.
@@ -3052,19 +2860,113 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 \begin{table}[
-                   h!]
+l.30 m
+      iniBloq özellikleri Tablo \ref{table:1}'de verilmiþtir.
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no q in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "F6.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 miniBloq ö
+               zellikleri Tablo \ref{table:1}'de verilmiþtir.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no z in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+! Undefined control sequence.
+<write> ...: Reference `table:1' on page \thepage 
+                                                  \space undefined\on@line .
+l.30 miniBloq özellikleri Tablo \ref{table:1}
+                                             'de verilmiþtir.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `table:1' on page  undefined on input line 30.
+
+Missing character: There is no ' in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "FE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 ...zellikleri Tablo \ref{table:1}'de verilmiþ
+                                                  tir.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+
+! LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \begin{table}
+                  [h!]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ! in font nullfont!
 Missing character: There is no ] in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 23.
+(Font)              <7> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 23.
+(Font)              <5> on input line 33.
 
 ! LaTeX Error: Illegal character in array arg.
 
@@ -3072,7 +2974,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 \begin{tabular}{|c| m{20em}|}
+l.33 \begin{tabular}{|c| m{20em}|}
                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3084,7 +2986,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.23 \begin{tabular}{|c| m{20em}|}
+l.33 \begin{tabular}{|c| m{20em}|}
                                   
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -3096,7 +2998,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25  Öz
+l.35  Öz
         ellik & Açýklama\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3117,7 +3019,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25  Özellik & Açýk
+l.35  Özellik & Açýk
                     lama\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3152,7 +3054,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27  Kolay & Sadece birkaç tý
+l.37  Kolay & Sadece birkaç tý
                               klama ve ilk programýnýz çalýþýyor. \\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3184,7 +3086,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 ...ay & Sadece birkaç týklama ve ilk programý
+l.37 ...ay & Sadece birkaç týklama ve ilk programý
                                                   nýz çalýþýyor. \\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3200,7 +3102,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 ... & Sadece birkaç týklama ve ilk programýný
+l.37 ... & Sadece birkaç týklama ve ilk programýný
                                                   z çalýþýyor. \\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3216,7 +3118,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 ...dece birkaç týklama ve ilk programýnýz çal
+l.37 ...dece birkaç týklama ve ilk programýnýz çal
                                                   ýþýyor. \\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3231,7 +3133,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 ...ece birkaç týklama ve ilk programýnýz çalý
+l.37 ...ece birkaç týklama ve ilk programýnýz çalý
                                                   þýyor. \\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3246,7 +3148,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 ...ce birkaç týklama ve ilk programýnýz çalýþ
+l.37 ...ce birkaç týklama ve ilk programýnýz çalýþ
                                                   ýyor. \\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3261,7 +3163,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.27 ...e birkaç týklama ve ilk programýnýz çalýþý
+l.37 ...e birkaç týklama ve ilk programýnýz çalýþý
                                                   yor. \\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3283,7 +3185,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 Gerçek
+l.39 Gerçek
             zamanlý kod oluþturucu & Kodu, sözdizimi renkli bir pencerede gö...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3305,7 +3207,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 Gerçek zamanlý
+l.39 Gerçek zamanlý
                     kod oluþturucu & Kodu, sözdizimi renkli bir pencerede gö...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3327,7 +3229,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 Gerçek zamanlý kod oluþ
+l.39 Gerçek zamanlý kod oluþ
                             turucu & Kodu, sözdizimi renkli bir pencerede gö...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3355,7 +3257,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 Gerçek zamanlý kod oluþturucu & Kodu, sö
+l.39 Gerçek zamanlý kod oluþturucu & Kodu, sö
                                              zdizimi renkli bir pencerede gö...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3397,7 +3299,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ... & Kodu, sözdizimi renkli bir pencerede gö
+l.39 ... & Kodu, sözdizimi renkli bir pencerede gö
                                                   steren bloklar eklerken ve...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3445,7 +3347,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...österen bloklar eklerken veya param deðerl
+l.39 ...österen bloklar eklerken veya param deðerl
                                                   erini deðiþtirirken oluþtu...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3468,9 +3370,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ...lar eklerken veya param deðerlerini deðiþt
-                                                  irirken oluþturur. Bu þeki...
-
+l.39 ...lar eklerken veya param deðerlerini deðiþt
+                                                  irirken oluþturur.\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -3494,9 +3395,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 ... veya param deðerlerini deðiþtirirken oluþ
-                                                  turur. Bu þekilde, miniBlo...
-
+l.39 ... veya param deðerlerini deðiþtirirken oluþ
+                                                  turur.\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
 or specify an encoding such as \usepackage [latin1]{inputenc}
@@ -3507,153 +3407,6 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no u in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no u in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FE.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 ... deðerlerini deðiþtirirken oluþturur. Bu þ
-                                                  ekilde, miniBloq metin tab...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no e in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no q in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no l in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 ...þturur. Bu þekilde, miniBloq metin tabanlý
-                                                   programlamaya geçiþi kola...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no e in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte sequence (çiþ).
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 ...miniBloq metin tabanlý programlamaya geçiþ
-                                                  i kolaylaþtýrýr.\\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no i in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FE.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 ...etin tabanlý programlamaya geçiþi kolaylaþ
-                                                  týrýr.\\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no t in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 ...in tabanlý programlamaya geçiþi kolaylaþtý
-                                                  rýr.\\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no r in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 ... tabanlý programlamaya geçiþi kolaylaþtýrý
-                                                  r.\\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 Missing character: There is no G in font nullfont!
@@ -3666,7 +3419,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.31 Gerçek
+l.41 Gerçek
             zamanlý hata denetimi &\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3687,7 +3440,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.31 Gerçek zamanlý
+l.41 Gerçek zamanlý
                     hata denetimi &\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3724,7 +3477,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 Otomatik boþ
+l.43 Otomatik boþ
                  luklu temel sürükle ve býrak &\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3750,7 +3503,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 Otomatik boþluklu temel sü
+l.43 Otomatik boþluklu temel sü
                                rükle ve býrak &\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3766,7 +3519,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 Otomatik boþluklu temel sürü
+l.43 Otomatik boþluklu temel sürü
                                  kle ve býrak &\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3787,7 +3540,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.33 Otomatik boþluklu temel sürükle ve bý
+l.43 Otomatik boþluklu temel sürükle ve bý
                                           rak &\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -3809,7 +3562,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 Geliþ
+l.45 Geliþ
           miþ arabirim & Yakýnlaþtýrma, kesme ve yapýþtýrma, sabitlenebilir ...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3827,7 +3580,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 Geliþmiþ
+l.45 Geliþmiþ
               arabirim & Yakýnlaþtýrma, kesme ve yapýþtýrma, sabitlenebilir ...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3854,7 +3607,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 Geliþmiþ arabirim & Yaký
+l.45 Geliþmiþ arabirim & Yaký
                              nlaþtýrma, kesme ve yapýþtýrma, sabitlenebilir ...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3873,7 +3626,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 Geliþmiþ arabirim & Yakýnlaþ
+l.45 Geliþmiþ arabirim & Yakýnlaþ
                                  týrma, kesme ve yapýþtýrma, sabitlenebilir ...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3890,7 +3643,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 Geliþmiþ arabirim & Yakýnlaþtý
+l.45 Geliþmiþ arabirim & Yakýnlaþtý
                                    rma, kesme ve yapýþtýrma, sabitlenebilir ...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3920,7 +3673,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 ...iþ arabirim & Yakýnlaþtýrma, kesme ve yapý
+l.45 ...iþ arabirim & Yakýnlaþtýrma, kesme ve yapý
                                                   þtýrma, sabitlenebilir pen...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3936,7 +3689,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 ...þ arabirim & Yakýnlaþtýrma, kesme ve yapýþ
+l.45 ...þ arabirim & Yakýnlaþtýrma, kesme ve yapýþ
                                                   týrma, sabitlenebilir penc...
 
 The document does not appear to be in UTF-8 encoding.
@@ -3953,7 +3706,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 ...arabirim & Yakýnlaþtýrma, kesme ve yapýþtý
+l.45 ...arabirim & Yakýnlaþtýrma, kesme ve yapýþtý
                                                   rma, sabitlenebilir pencer...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4029,7 +3782,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 ...ler ve klavye gezintisi miniBloq GUI'nin ö
+l.45 ...ler ve klavye gezintisi miniBloq GUI'nin ö
                                                   zelliklerinden sadece bazý...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4068,7 +3821,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 ...niBloq GUI'nin özelliklerinden sadece bazý
+l.45 ...niBloq GUI'nin özelliklerinden sadece bazý
                                                   larýdýr.\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4086,7 +3839,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 ...oq GUI'nin özelliklerinden sadece bazýlarý
+l.45 ...oq GUI'nin özelliklerinden sadece bazýlarý
                                                   dýr.\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4102,7 +3855,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.35 ... GUI'nin özelliklerinden sadece bazýlarýdý
+l.45 ... GUI'nin özelliklerinden sadece bazýlarýdý
                                                   r.\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4120,7 +3873,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 Gö
+l.47 Gö
        mülü terminal & Seri/USB baðlantý noktalarý üzerinden panonuza veri g...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4137,7 +3890,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 Gömü
+l.47 Gömü
          lü terminal & Seri/USB baðlantý noktalarý üzerinden panonuza veri g...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4154,7 +3907,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 Gömülü
+l.47 Gömülü
             terminal & Seri/USB baðlantý noktalarý üzerinden panonuza veri g...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4188,7 +3941,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 Gömülü terminal & Seri/USB baðlan
+l.47 Gömülü terminal & Seri/USB baðlan
                                       tý noktalarý üzerinden panonuza veri g...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4205,7 +3958,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 Gömülü terminal & Seri/USB baðlantý
+l.47 Gömülü terminal & Seri/USB baðlantý
                                          noktalarý üzerinden panonuza veri g...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4229,7 +3982,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 Gömülü terminal & Seri/USB baðlantý noktalarý
+l.47 Gömülü terminal & Seri/USB baðlantý noktalarý
                                                    üzerinden panonuza veri g...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4245,7 +3998,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ...ü terminal & Seri/USB baðlantý noktalarý ü
+l.47 ...ü terminal & Seri/USB baðlantý noktalarý ü
                                                   zerinden panonuza veri gön...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4282,7 +4035,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ...lantý noktalarý üzerinden panonuza veri gö
+l.47 ...lantý noktalarý üzerinden panonuza veri gö
                                                   ndermenizi ve almanýzý sað...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4315,7 +4068,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ...inden panonuza veri göndermenizi ve almaný
+l.47 ...inden panonuza veri göndermenizi ve almaný
                                                   zý saðlayan gömülü bir ter...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4332,7 +4085,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ...den panonuza veri göndermenizi ve almanýzý
+l.47 ...den panonuza veri göndermenizi ve almanýzý
                                                    saðlayan gömülü bir termi...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4350,7 +4103,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ...onuza veri göndermenizi ve almanýzý saðlay
+l.47 ...onuza veri göndermenizi ve almanýzý saðlay
                                                   an gömülü bir terminal var...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4369,7 +4122,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ... veri göndermenizi ve almanýzý saðlayan gö
+l.47 ... veri göndermenizi ve almanýzý saðlayan gö
                                                   mülü bir terminal vardýr\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4385,7 +4138,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ...eri göndermenizi ve almanýzý saðlayan gömü
+l.47 ...eri göndermenizi ve almanýzý saðlayan gömü
                                                   lü bir terminal vardýr\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4401,7 +4154,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ...i göndermenizi ve almanýzý saðlayan gömülü
+l.47 ...i göndermenizi ve almanýzý saðlayan gömülü
                                                    bir terminal vardýr\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4431,7 +4184,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 ...lmanýzý saðlayan gömülü bir terminal vardý
+l.47 ...lmanýzý saðlayan gömülü bir terminal vardý
                                                   r\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4465,8 +4218,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 Hepsi bire bir kullaný
-                           ma hazýr çözüm & Bu "piller dahil yazýlým". Paket...
+l.49 Hepsi bire bir kullaný
+                           ma hazýr çözüm & Paket çalýþmaya baþlamak için he...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4486,8 +4239,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 Hepsi bire bir kullanýma hazý
-                                  r çözüm & Bu "piller dahil yazýlým". Paket...
+l.49 Hepsi bire bir kullanýma hazý
+                                  r çözüm & Paket çalýþmaya baþlamak için he...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4503,8 +4256,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 Hepsi bire bir kullanýma hazýr çöz
-                                       üm & Bu "piller dahil yazýlým". Paket...
+l.49 Hepsi bire bir kullanýma hazýr çöz
+                                       üm & Paket çalýþmaya baþlamak için he...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4519,8 +4272,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 Hepsi bire bir kullanýma hazýr çözü
-                                        m & Bu "piller dahil yazýlým". Paket...
+l.49 Hepsi bire bir kullanýma hazýr çözü
+                                        m & Paket çalýþmaya baþlamak için he...
 
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4529,59 +4282,6 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 Missing character: There is no m in font nullfont!
-Missing character: There is no B in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no " in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no z in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39 ...lanýma hazýr çözüm & Bu "piller dahil yazý
-                                                  lým". Paket çalýþmaya baþl...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no l in font nullfont!
-
-! LaTeX Error: Invalid UTF-8 byte "FD.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.39 ...nýma hazýr çözüm & Bu "piller dahil yazýlý
-                                                  m". Paket çalýþmaya baþlam...
-
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-Missing character: There is no m in font nullfont!
-Missing character: There is no " in font nullfont!
-Missing character: There is no . in font nullfont!
 Missing character: There is no P in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no k in font nullfont!
@@ -4594,7 +4294,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 ...züm & Bu "piller dahil yazýlým". Paket çal
+l.49 ...bire bir kullanýma hazýr çözüm & Paket çal
                                                   ýþmaya baþlamak için her þ...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4610,7 +4310,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 ...üm & Bu "piller dahil yazýlým". Paket çalý
+l.49 ...ire bir kullanýma hazýr çözüm & Paket çalý
                                                   þmaya baþlamak için her þe...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4626,7 +4326,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 ...m & Bu "piller dahil yazýlým". Paket çalýþ
+l.49 ...re bir kullanýma hazýr çözüm & Paket çalýþ
                                                   maya baþlamak için her þey...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4648,7 +4348,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 ...piller dahil yazýlým". Paket çalýþmaya baþ
+l.49 ...ullanýma hazýr çözüm & Paket çalýþmaya baþ
                                                   lamak için her þeyi içerir\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4669,7 +4369,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 ...il yazýlým". Paket çalýþmaya baþlamak için
+l.49 ...azýr çözüm & Paket çalýþmaya baþlamak için
                                                    her þeyi içerir\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4687,7 +4387,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 ...ýlým". Paket çalýþmaya baþlamak için her þ
+l.49 ...özüm & Paket çalýþmaya baþlamak için her þ
                                                   eyi içerir\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4706,7 +4406,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39 ...aket çalýþmaya baþlamak için her þeyi içer
+l.49 ...aket çalýþmaya baþlamak için her þeyi içer
                                                   ir\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4726,7 +4426,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 Modü
+l.51 Modü
          ler ve geniþletilebilir & Kullanýcý kolayca kendi yeni bloklarýný o...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4751,7 +4451,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 Modüler ve geniþ
+l.51 Modüler ve geniþ
                      letilebilir & Kullanýcý kolayca kendi yeni bloklarýný o...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4784,7 +4484,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 Modüler ve geniþletilebilir & Kullaný
+l.51 Modüler ve geniþletilebilir & Kullaný
                                           cý kolayca kendi yeni bloklarýný o...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4801,7 +4501,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 Modüler ve geniþletilebilir & Kullanýcý
+l.51 Modüler ve geniþletilebilir & Kullanýcý
                                              kolayca kendi yeni bloklarýný o...
 
 The document does not appear to be in UTF-8 encoding.
@@ -4840,7 +4540,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 ...ir & Kullanýcý kolayca kendi yeni bloklarý
+l.51 ...ir & Kullanýcý kolayca kendi yeni bloklarý
                                                   ný oluþturabilir\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4856,7 +4556,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 ... & Kullanýcý kolayca kendi yeni bloklarýný
+l.51 ... & Kullanýcý kolayca kendi yeni bloklarýný
                                                    oluþturabilir\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4874,7 +4574,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 ...llanýcý kolayca kendi yeni bloklarýný oluþ
+l.51 ...llanýcý kolayca kendi yeni bloklarýný oluþ
                                                   turabilir\\
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4898,7 +4598,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 \caption
+l.54 \caption
              {miniBloq özellikleri}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -4918,7 +4618,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 \caption{miniBloq ö
+l.54 \caption{miniBloq ö
                         zellikleri}
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -4943,30 +4643,62 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.46 \end{table}
+l.56 \end{table}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 21--47
+Overfull \hbox (20.0pt too wide) in paragraph at lines 30--57
 []
  []
 
 
-! LaTeX Error: Environment figure undefined.
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 30--57
+[]
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.49 \begin{figure}
-                   [h!]
+l.57 \newpage
+             
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+[1{C:/Users/ibrah/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+! Undefined control sequence.
+<write> \newlabel{fig:multi_robot}{{}{\thepage 
+                                               }}
+l.57 \newpage
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{fig:multi_robot}{{}{}}
+! Undefined control sequence.
+<write> \newlabel{table:1}{{}{\thepage 
+                                       }}
+l.57 \newpage
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+\newlabel{table:1}{{}{}}
+]
 
 ! LaTeX Error: Missing \begin{document}.
 
@@ -4974,17 +4706,215 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.49 \begin{figure}[
-                    h!]
+l.58 m
+      iniBloq ilk açtýðýnýzda Þekil \ref{fig:minibloq}'de gibi karþýnýzda bi...
+
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (çtý).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 miniBloq ilk açtý
+                      ðýnýzda Þekil \ref{fig:minibloq}'de gibi karþýnýzda bi...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte sequence (ðýný).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 miniBloq ilk açtýðýný
+                          zda Þekil \ref{fig:minibloq}'de gibi karþýnýzda bi...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no z in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (Þe).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 miniBloq ilk açtýðýnýzda Þe
+                                kil \ref{fig:minibloq}'de gibi karþýnýzda bi...
+
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no k in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+! Undefined control sequence.
+<write> ...erence `fig:minibloq' on page \thepage 
+                                                  \space undefined\on@line .
+l.58 ...q ilk açtýðýnýzda Þekil \ref{fig:minibloq}
+                                                  'de gibi karþýnýzda bir ek...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Reference `fig:minibloq' on page  undefined on input line 58.
+
+Missing character: There is no ' in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "FE.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 ...ýzda Þekil \ref{fig:minibloq}'de gibi karþ
+                                                  ýnýzda bir ekran çýkacaktýr.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+! LaTeX Error: Invalid UTF-8 byte "FD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 ...zda Þekil \ref{fig:minibloq}'de gibi karþý
+                                                  nýzda bir ekran çýkacaktýr.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no n in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "FD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 ...a Þekil \ref{fig:minibloq}'de gibi karþýný
+                                                  zda bir ekran çýkacaktýr.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no z in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte sequence (çýk).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 ...minibloq}'de gibi karþýnýzda bir ekran çýk
+                                                  acaktýr.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! LaTeX Error: Invalid UTF-8 byte "FD.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 ...oq}'de gibi karþýnýzda bir ekran çýkacaktý
+                                                  r.
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \begin{figure}
+                   [h!]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no h in font nullfont!
 Missing character: There is no ! in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.50   \includegraphics
+l.60   \includegraphics
                        [scale=0.4]{minibloq.png}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5022,7 +4952,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51   \caption
+l.61   \caption
                {miniBloq giriþ ekraný}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -5046,7 +4976,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51   \caption{miniBloq giriþ
+l.61   \caption{miniBloq giriþ
                                ekraný}
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -5066,7 +4996,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.51   \caption{miniBloq giriþ ekraný
+l.61   \caption{miniBloq giriþ ekraný
                                      }
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -5081,7 +5011,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.53 \end{figure}
+l.63 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -5095,11 +5025,11 @@ or  <return>  to continue without it.
 
  
 Here is how much of TeX's memory you used:
- 49 strings out of 478659
- 597 string characters out of 2855776
- 297559 words of memory out of 3000000
- 18255 multiletter control sequences out of 15000+600000
+ 53 strings out of 478659
+ 657 string characters out of 2855776
+ 300559 words of memory out of 3000000
+ 18257 multiletter control sequences out of 15000+600000
  403738 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 19i,6n,16p,381b,111s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,6n,23p,405b,106s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
